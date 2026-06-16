@@ -1,0 +1,1038 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-15",
+  "updatedAt": "2026-06-15T16:00:00Z",
+  "exportedAt": "2026-06-16T00:19:39.324Z",
+  "districtCode": "FL-23",
+  "data": {
+    "DISTRICT": {
+      "id": "fl-23",
+      "districtNumber": "FL-23",
+      "districtName": "Florida's 23rd Congressional District",
+      "state": "Florida",
+      "counties": [
+        "Palm Beach County (coastal strip from West Palm Beach south through Boca Raton)"
+      ],
+      "majorPlaces": [
+        "West Palm Beach",
+        "Palm Beach (island, including Mar-a-Lago)",
+        "Boca Raton",
+        "Delray Beach",
+        "Boynton Beach",
+        "Lake Worth Beach",
+        "Lantana",
+        "Greenacres"
+      ],
+      "cycleYear": 2026,
+      "population": 769000,
+      "registeredVoters": 310000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 138000,
+          "pct": 44.5
+        },
+        {
+          "label": "Republican",
+          "count": 97000,
+          "pct": 31.3
+        },
+        {
+          "label": "No Party Affiliation",
+          "count": 65000,
+          "pct": 21
+        },
+        {
+          "label": "Other",
+          "count": 10000,
+          "pct": 3.2
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — FL-23 (new HB 1-D boundaries; formerly FL-22)",
+        "winner": {
+          "name": "Kamala Harris (D) — presidential baseline (new FL-23 boundaries)",
+          "pct": 56,
+          "votes": 152000
+        },
+        "runnerUp": {
+          "name": "Donald Trump (R) — presidential baseline (new FL-23 boundaries)",
+          "pct": 43.5,
+          "votes": 118000
+        },
+        "turnoutPct": 53
+      }
+    },
+    "SOURCES": {
+      "src-fl-dos-elections": {
+        "id": "src-fl-dos-elections",
+        "name": "Florida Division of Elections — Election Dates 2026",
+        "short": "FL DOS Elections",
+        "url": "https://dos.fl.gov/elections/for-voters/election-dates/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
+      },
+      "src-fl-dos-register": {
+        "id": "src-fl-dos-register",
+        "name": "Florida Division of Elections — Voter Registration",
+        "short": "FL Voter Registration",
+        "url": "https://dos.fl.gov/elections/for-voters/voter-registration/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high"
+      },
+      "src-fl-dos-qualifying": {
+        "id": "src-fl-dos-qualifying",
+        "name": "Florida Division of Elections — Candidate Qualifying",
+        "short": "FL Candidate Qualifying",
+        "url": "https://dos.fl.gov/elections/candidates-committees/qualifying/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Qualifying period June 8–12, 2026 for U.S. House seats under HB 1-D boundaries."
+      },
+      "src-fl-dos-frankel-filing": {
+        "id": "src-fl-dos-frankel-filing",
+        "name": "Florida DOS Candidate Filing — Lois Frankel (account 89248)",
+        "short": "FL DOS — Frankel filing",
+        "url": "https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89248",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Frankel's DOS candidate filing still reads 'District 22' because she filed in June 2025 — before HB 1-D renumbering. The general-election candidate list correctly groups Frankel, Doyle, and Piper together as the FL-23 Democratic primary. The 'District 22' label is a pre-HB-1-D artifact."
+      },
+      "src-palmbeach-soe": {
+        "id": "src-palmbeach-soe",
+        "name": "Palm Beach County Supervisor of Elections (pbcelections.org)",
+        "short": "Palm Beach SOE",
+        "url": "https://www.pbcelections.org",
+        "publisher": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Palm Beach County is the sole county covered by FL-23 under HB 1-D. As of June 16, 2026 Palm Beach County had 870,720 registered voters (county-wide): 306,308 Democrats, 297,035 Republicans, 233,153 NPA, 34,224 minor party. FL-23 covers the coastal/urban Democratic-leaning strip."
+      },
+      "src-palmbeach-soe-vbm": {
+        "id": "src-palmbeach-soe-vbm",
+        "name": "Palm Beach SOE — Vote-by-Mail",
+        "short": "Palm Beach VBM",
+        "url": "https://www.pbcelections.org/Voters/Vote-By-Mail",
+        "publisher": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Palm Beach SOE VBM page. SOE main office: 240 S Military Trail, West Palm Beach. Mail ballots must arrive at SOE by 7 PM Election Day (no postmark grace)."
+      },
+      "src-fl-elec-code-ch101": {
+        "id": "src-fl-elec-code-ch101",
+        "name": "Florida Statutes Title IX, Chapter 101 — Voting Methods and Procedure",
+        "short": "FL Statutes Ch. 101",
+        "url": "https://www.flsenate.gov/Laws/Statutes/2024/Title-IX/Chapter-101",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
+      },
+      "src-fl-elec-code-sb90": {
+        "id": "src-fl-elec-code-sb90",
+        "name": "Florida SB 90 (2021) — Enrolled Bill Text",
+        "short": "FL SB 90 (2021)",
+        "url": "https://www.flsenate.gov/Session/Bill/2021/90/BillText/c2/HTML",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
+      },
+      "src-fl-senate-hb1d": {
+        "id": "src-fl-senate-hb1d",
+        "name": "Florida Legislature — HB 1-D (2026 Congressional Redistricting)",
+        "short": "FL HB 1-D (2026)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Signed by Gov. DeSantis on May 4, 2026. Renumbered all 28 Florida congressional districts. The OLD FL-22 (Frankel's Palm Beach seat) became NEW FL-23. The OLD FL-23 (Moskowitz) became NEW FL-25. The OLD FL-25 (Wasserman Schultz) became NEW FL-22. FL Supreme Court denied preliminary injunction 6-1 on June 10, 2026."
+      },
+      "src-wikipedia-fl-house-2026": {
+        "id": "src-wikipedia-fl-house-2026",
+        "name": "Wikipedia — 2026 U.S. House Elections in Florida",
+        "short": "Wikipedia FL House 2026",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+        "publisher": "Wikipedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "medium",
+        "notes": "Aggregates FEC filings, race ratings (Cook/Sabato/Inside Elections/Economist all Safe-Solid D for new FL-23), and candidate qualification data. Use this — NOT Ballotpedia's FL-23 page — which still shows pre-HB-1-D Moskowitz-era candidates (those candidates are now in FL-25)."
+      },
+      "src-ballotpedia-fl23-warning": {
+        "id": "src-ballotpedia-fl23-warning",
+        "name": "Ballotpedia — Florida's 23rd Congressional District (data lag warning)",
+        "short": "Ballotpedia FL-23",
+        "url": "https://ballotpedia.org/Florida%27s_23rd_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "low",
+        "notes": "CAUTION: As of June 2026, Ballotpedia's FL-23 2026 election page still shows the OLD FL-23 roster (Jared Moskowitz's Broward/Boca Raton seat), which under HB 1-D is now FL-25. DO NOT use Ballotpedia FL-23 as a candidate source for Frankel's race. Re-check on future refreshes."
+      },
+      "src-democracy-docket": {
+        "id": "src-democracy-docket",
+        "name": "Democracy Docket — Equal Ground Education Fund v. Byrd",
+        "short": "Democracy Docket FL",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
+        "publisher": "Democracy Docket",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1); merits litigation ongoing. HB 1-D map remains in effect for 2026 elections."
+      },
+      "src-frankel-house": {
+        "id": "src-frankel-house",
+        "name": "Rep. Lois Frankel — Official House Website",
+        "short": "Frankel House.gov",
+        "url": "https://frankel.house.gov",
+        "publisher": "U.S. House of Representatives",
+        "sourceType": "official-district",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Frankel has represented this coastal Palm Beach seat since 2013. Her House website still references 'FL-22' (not yet updated to reflect HB 1-D renumbering to FL-23 effective for the 2026 election cycle)."
+      },
+      "src-fec-frankel": {
+        "id": "src-fec-frankel",
+        "name": "FEC — Frankel for Congress Committee (C00494856)",
+        "short": "FEC — Frankel",
+        "url": "https://www.fec.gov/data/committee/C00494856/",
+        "publisher": "Federal Election Commission",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Frankel's principal campaign committee. FEC continues to file her committee under 'Florida - 22' (pre-HB-1-D numbering) as of June 2026 — a paperwork artifact; she is running in the new FL-23 per FL DOS general election candidate list."
+      },
+      "src-fec-doyle": {
+        "id": "src-fec-doyle",
+        "name": "FEC — Doyle for Congress Committee (C00904953)",
+        "short": "FEC — Doyle",
+        "url": "https://www.fec.gov/data/committee/C00904953/",
+        "publisher": "Federal Election Commission",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Victoria Doyle's principal campaign committee. Refuses corporate/PAC donations. Raised ~$168K; ~$4.5K cash on hand after substantial early spending."
+      },
+      "src-wlrn-doyle": {
+        "id": "src-wlrn-doyle",
+        "name": "WLRN — Lois Frankel Faces Primary Challenger Victoria Doyle (Jan 15, 2026)",
+        "short": "WLRN — Doyle challenge",
+        "url": "https://www.wlrn.org/light/government-politics/2026-01-15/lake-worth-lois-frankel-victoria-doyle",
+        "publisher": "WLRN Public Media (South Florida NPR)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Documents Doyle's challenge to Frankel from the left. Doyle, a retired IP attorney from Lake Worth Beach, originally launched her run for FL-22 in January 2026 and relaunched for the new FL-23 in May 2026 after HB 1-D."
+      },
+      "src-stet-pbc-races": {
+        "id": "src-stet-pbc-races",
+        "name": "Stet News Palm Beach County — 2026 Midterms Contested Seats (June 13, 2026)",
+        "short": "Stet News — PBC races",
+        "url": "https://stetnews.org/2026/06/13/2026-midterms-contested-seats-in-all-but-two-school-board-races-for-palm-beach-county-voters/",
+        "publisher": "Stet News Palm Beach County",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Post-qualifying summary of contested Palm Beach County races, including the FL-23 Democratic and Republican primary fields after the June 12 qualifying deadline."
+      },
+      "src-florida-press-hb1d": {
+        "id": "src-florida-press-hb1d",
+        "name": "The Florida Press — DeSantis Signs Congressional Map Creating 24 GOP Seats (May 2026)",
+        "short": "Florida Press — HB 1-D Signing",
+        "url": "https://www.thefloridapress.com/news/desantis-signs-florida-congressional-map-creating-24-gop-leaning-districts",
+        "publisher": "The Florida Press",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Reports HB 1-D signing May 4, 2026, renumbering all 28 districts. Under the new map FL-23 takes Frankel's seat; old FL-23 (Moskowitz) becomes FL-25."
+      },
+      "src-nrf-appeal": {
+        "id": "src-nrf-appeal",
+        "name": "National Redistricting Foundation — Equal Ground v. Byrd Appeal (May 28, 2026)",
+        "short": "NRF — Equal Ground Appeal",
+        "url": "https://redistrictingfoundation.org/2026/05/28/nrf-supported-voters-appeal-florida-redistricting-decision/",
+        "publisher": "National Redistricting Foundation",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Documents plaintiffs' appeal of Leon County Circuit Court preliminary injunction denial to Florida's First District Court of Appeals, filed May 28, 2026."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-fl23-hb1d-signed",
+        "milestone": "HB 1-D signed — old FL-22 renumbered to FL-23",
+        "electionType": "primary",
+        "date": "2026-05-04",
+        "significance": "Governor DeSantis signed Florida HB 1-D into law, redrawing all 28 congressional districts. The OLD FL-22 (Lois Frankel's Palm Beach County coastal seat) was renumbered to FL-23 for the 2026 cycle. The OLD FL-23 (Jared Moskowitz's Broward/Boca Raton seat) was renumbered to FL-25. The new FL-23 is more Democratic than the old FL-22 (approximately D+13 vs. D+7 prior Cook PVI) because HB 1-D removed western Palm Beach County (more Republican) from the district.",
+        "governingAuthority": "Florida Legislature / Governor's Office",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-florida-press-hb1d"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-qualifying-open",
+        "milestone": "Candidate qualifying period opens — FL-23",
+        "electionType": "primary",
+        "date": "2026-06-08",
+        "significance": "First day of qualifying for U.S. House candidates under HB 1-D boundaries. Lois Frankel, Victoria Doyle, Mark Piper (D), Deborah Adeimy, and Paola Branda (R) all filed during this June 8–12 window.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-qualifying",
+          "src-fl-dos-frankel-filing"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-qualifying-close",
+        "milestone": "Candidate qualifying deadline — FL-23",
+        "electionType": "primary",
+        "date": "2026-06-12",
+        "significance": "Noon deadline for U.S. House candidates to qualify for the August 18 primary. FL-23 final field: Democratic primary — Frankel (incumbent), Doyle (challenger from left), Piper. Republican primary — Adeimy, Branda. Failed to qualify (R): Kaufman, Dorcé, Gurfein, Hamilton. Withdrew or moved to FL-25 (R): Franzese, Wertheim, Moraitis, Singer.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-qualifying",
+          "src-stet-pbc-races"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-20",
+        "significance": "Last day to register to vote or change party affiliation for the August 18, 2026 Florida primary (29 days before election). Florida has a closed primary: only registered Democrats may vote in the Frankel–Doyle–Piper primary; only registered Republicans may vote in the Adeimy–Branda primary. NPA voters may not participate in either major-party U.S. House primary. Register at registertovoteflorida.gov or at the Palm Beach County SOE.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-dos-register",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-06",
+        "significance": "5:00 p.m. deadline to request a vote-by-mail ballot for the August 18 primary (12 days before election). Under SB 90 (2021), VBM requests no longer carry over between election cycles — voters who had a standing request must re-request for 2026. Request through Palm Beach County SOE at pbcelections.org/Voters/Vote-By-Mail.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-sb90",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-early-start",
+        "milestone": "In-person early voting begins — primary (mandatory minimum)",
+        "electionType": "primary",
+        "date": "2026-08-08",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before a primary (August 8). FL-23 voters may cast their ballot at any early voting site in Palm Beach County. Minimum 8 hours/day per site; the SOE may add optional additional days (Aug 3-7 and/or Aug 16). Drop boxes are restricted to SOE main office, branch offices, and early voting sites — all must be staffed (SB 90).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-early-end",
+        "milestone": "In-person early voting ends — primary",
+        "electionType": "primary",
+        "date": "2026-08-15",
+        "significance": "Early voting must continue through the 3rd day before the primary (August 15). Voters may drop off completed vote-by-mail ballots at any Palm Beach County early voting site during early voting hours (SB 90). After August 15, ballot drop boxes are only available at the SOE main office (240 S Military Trail, West Palm Beach).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-day",
+        "milestone": "Primary election day — FL-23",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Florida closed primary. FL-23 Democratic primary: Frankel (incumbent, $1.46M cash on hand) vs. Doyle (progressive challenger) vs. Piper. FL-23 Republican primary: Adeimy ($57K cash on hand) vs. Branda. Polls open 7 AM – 7 PM. Photo ID required in person. Mail ballots must arrive at Palm Beach SOE by 7 PM — no postmark grace period. The Democratic nominee is heavily favored in the general election given the district's D+13 lean.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-palmbeach-soe",
+          "src-wikipedia-fl-house-2026"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Vote-by-mail ballots must be received by the Palm Beach County Supervisor of Elections by 7:00 p.m. on Election Day (August 18). Florida does not count ballots that arrive after polls close, even if postmarked before Election Day. Recommended mail-back date: August 11 (7 days prior).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-09-01",
+        "significance": "Palm Beach County SOE must complete the official canvass and certify primary results to the Florida Department of State within approximately 14 days of the primary (approximately September 1, 2026).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Last day to register to vote for the November 3, 2026 general election (29 days before election day). Florida does not have same-day voter registration. All FL-23 voters must be registered with Palm Beach County by this date.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-22",
+        "significance": "5:00 p.m. deadline to request a vote-by-mail ballot for the November 3 general (12 days before election). Under SB 90, requests expire each general election cycle — voters who requested for the primary must re-request for the general. Request through Palm Beach County SOE.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-sb90",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-early-start",
+        "milestone": "In-person early voting begins — general (mandatory minimum)",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before the general election (October 24 for the November 3 general). FL-23 voters may use any early voting site in Palm Beach County. Minimum 8 hours/day; Palm Beach typically offers up to 12 hours/day and may add additional days (Oct 19-23 and/or Nov 1).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "Early voting must continue through the 3rd day before the general election (October 31). Voters may drop off completed mail ballots at any early voting site during early voting hours. After October 31, drop boxes available only at SOE main office through 7 PM on Election Day.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-day",
+        "milestone": "General Election — FL-23",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. FL-23 winner determined. Democratic nominee (Frankel, Doyle, or Piper) vs. Republican nominee (Adeimy or Branda). Polls open 7 AM – 7 PM. Photo ID required in person. The district is rated Safe/Solid D by Cook, Inside Elections, Sabato's Crystal Ball, and The Economist (approx. D+13; Harris ~56% in 2024 under new boundaries).",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-palmbeach-soe",
+          "src-wikipedia-fl-house-2026"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Vote-by-mail ballots must be received by Palm Beach County SOE by 7:00 p.m. on Election Day (November 3). Florida does not accept ballots arriving after polls close regardless of postmark. Recommended mail-back date: October 27.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-17",
+        "significance": "Palm Beach County SOE must certify and submit general election canvass results to the Florida Secretary of State within approximately 14 days of Election Day.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl23-general-state-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "The Florida Secretary of State certifies official statewide results approximately 3 weeks after Election Day, following completion of all county canvasses and any automatic recounts.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-fl-voter-id",
+        "topic": "Photo ID required to vote in person",
+        "currentRule": "Florida requires all voters to present current, valid photo identification at polling places and early voting sites. If the photo ID does not contain a signature, a second form of ID with signature is required. Acceptable IDs include: Florida driver's license or ID card, U.S. passport, debit or credit card with photo, military ID, student ID, retirement center ID, neighborhood association ID, public assistance ID, VA health ID, Florida concealed weapon/firearm license, or any government-issued employee ID. Voters without acceptable ID may cast a provisional ballot and must provide ID to Palm Beach SOE within 2 days.",
+        "status": "active",
+        "whyItMatters": "Every FL-23 voter casting a ballot in person — at any Palm Beach County polling place or early voting site — must bring a valid photo ID. Provisional fallback exists but requires a follow-up trip to the SOE within 2 days.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.043. Voters without ID may cast a provisional ballot; 2-day post-election ID cure window applies."
+      },
+      {
+        "id": "rule-fl-closed-primary",
+        "topic": "Closed primary — party registration required",
+        "currentRule": "Florida has a closed primary system. Only registered Democrats may vote in the FL-23 Democratic primary (Frankel vs. Doyle vs. Piper); only registered Republicans may vote in the FL-23 Republican primary (Adeimy vs. Branda). Voters registered No Party Affiliation (NPA) or with a third party may NOT vote in either major-party primary for U.S. House. Party registration must be current by the primary registration deadline (July 20, 2026).",
+        "status": "active",
+        "whyItMatters": "Palm Beach County has 233,153 NPA voters (county-wide as of June 2026) — none of them may vote in either FL-23 primary. The Democratic nominee will be chosen exclusively by registered Democrats; Republican nominee by registered Republicans. Voters who want a primary voice must register or change party by July 20, 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.021. Party change deadline is the same as the general registration deadline (29 days before primary)."
+      },
+      {
+        "id": "rule-fl-registration-deadline",
+        "topic": "Voter registration deadline — 29 days before election; no same-day registration",
+        "currentRule": "Florida requires voters to register at least 29 days before any federal election. For 2026: primary deadline July 20; general deadline October 5. Florida does not offer same-day or conditional voter registration. Register online at registertovoteflorida.gov, by mail (postmarked by deadline), or in person at the Palm Beach County SOE.",
+        "status": "active",
+        "whyItMatters": "Voters newly placed in FL-23 under HB 1-D boundaries — particularly anyone moving in from outside Palm Beach County — should verify their district assignment and registration before the July 20 deadline. There is no safety net of same-day registration in Florida.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §97.055. Book closing applies equally to primary and general."
+      },
+      {
+        "id": "rule-fl-vbm-sb90-request",
+        "topic": "Vote-by-mail request required each election cycle (SB 90)",
+        "currentRule": "Under SB 90 (enacted July 1, 2021), vote-by-mail ballot requests in Florida expire after each general election cycle. Voters who previously had standing multi-election VBM requests must re-request for each new cycle. Request must include the voter's Florida driver's license number, Florida ID number, or last four digits of Social Security Number for identity verification.",
+        "status": "active",
+        "whyItMatters": "Many FL-23 voters in Palm Beach County who relied on automatic VBM renewal under the prior system may be unaware their request expired. They must actively re-request for 2026 by August 6 (primary) or October 22 (general).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-dos-elections",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §§101.62, amended by SB 90 (2021). Request deadline: 12 days before the election. Identity verification required."
+      },
+      {
+        "id": "rule-fl-drop-boxes-sb90",
+        "topic": "Ballot drop box restrictions (SB 90 — staffed drop boxes at SOE offices and early voting sites only)",
+        "currentRule": "Under SB 90 (2021), official ballot drop boxes are only permitted at: (1) the Palm Beach SOE main office at 240 S Military Trail, West Palm Beach; (2) SOE branch offices; and (3) Palm Beach County early voting sites. All drop boxes must be physically staffed by an election worker at all times when accessible. Drop boxes at branch offices may close at 5:00 p.m. on Election Day; the main SOE office drop box remains open until 7:00 p.m. Voters CANNOT drop off a vote-by-mail ballot at a regular polling place on Election Day (only to cancel it and vote in person).",
+        "status": "active",
+        "whyItMatters": "FL-23 voters wishing to use a drop box must travel to the Palm Beach County SOE main office, a branch office, or an early voting site during the early voting period. Community drop boxes that existed pre-SB 90 are no longer permitted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-dos-elections",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.69(2), amended by SB 90 (2021). Drop boxes at branch SOE offices may close at 5 PM on Election Day; main office drop box closes at 7 PM. Staffing requirement: must be attended by a county election worker at all accessible hours."
+      },
+      {
+        "id": "rule-fl-vbm-receipt-no-postmark",
+        "topic": "Mail ballot must arrive — not just be postmarked — by 7 PM on Election Day",
+        "currentRule": "Florida law requires that voted mail ballots be received by the Supervisor of Elections by 7:00 p.m. on Election Day. Unlike many states, Florida provides no postmark grace period — a ballot postmarked before Election Day but received the next day is not counted. Ballots may be returned by USPS mail (must arrive by 7 PM), in person at any Palm Beach County early voting site during early voting hours, or at the SOE main office drop box (closes 7 PM Election Day).",
+        "status": "active",
+        "whyItMatters": "FL-23 voters mailing their ballots should allow at least 5–7 days for USPS delivery. The recommended send-back date for the August 18 primary is approximately August 11; for the November 3 general, approximately October 27.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §§101.62, 101.65, 101.68. No postmark grace period."
+      },
+      {
+        "id": "rule-fl-signature-cure",
+        "topic": "Mail ballot signature cure — 2-day post-election cure window",
+        "currentRule": "If a returned vote-by-mail envelope has a missing or mismatched signature, the Supervisor of Elections must notify the voter. The voter may cure by 5:00 p.m. on the 2nd day after the election by submitting a Vote-by-Mail Ballot Cure Affidavit (Form DS-DE 139) plus a copy of valid ID. Signature comparison uses the voter's most recent signature on file. A mismatch determination requires majority vote of the canvassing board under a 'beyond a reasonable doubt' standard (SB 90 amendment to §101.68(2)(c)1).",
+        "status": "active",
+        "whyItMatters": "FL-23 voters returning mail ballots should sign the envelope exactly as their current registration signature appears. If a signature is flagged, the voter has a narrow 2-day window to cure.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-elec-code-ch101",
+          "src-palmbeach-soe-vbm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.68(2)(c)1, as amended by SB 90 (2021). Cure deadline: 5 PM, 2nd day after election."
+      },
+      {
+        "id": "rule-fl-early-voting",
+        "topic": "Early voting — mandatory 8-day window, minimum 8 hours/day",
+        "currentRule": "Florida law requires a mandatory early voting period of at least 8 days, running from the 10th day to the 3rd day before Election Day, with each site open at least 8 hours per day (up to 12 hours). For 2026: primary mandatory window August 8–15; general mandatory window October 24–31. The Palm Beach SOE may additionally offer early voting on the 15th, 14th, 13th, 12th, 11th, or 2nd days before election. FL-23 voters may cast their ballot at ANY early voting site in Palm Beach County.",
+        "status": "active",
+        "whyItMatters": "FL-23 is entirely within Palm Beach County, so all early voting sites in the county are available to all FL-23 voters. Check pbcelections.org for the specific site list and hours closer to each election.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.657. Mandatory 8-day minimum period; counties may extend up to 14 days."
+      },
+      {
+        "id": "rule-fl-provisional-ballots",
+        "topic": "Provisional ballots — wrong precinct, missing ID, or VBM conflict",
+        "currentRule": "Florida voters who do not appear on the precinct rolls, cannot produce acceptable photo ID, or whose voter record shows a VBM ballot has been issued must cast a provisional ballot at their assigned precinct. Provisional ballots are reviewed during the canvass. Voters have 2 days after the election to provide missing information (e.g., ID, cure affidavit). Voting at the wrong precinct may result in the congressional race not being counted on that ballot.",
+        "status": "active",
+        "whyItMatters": "Under HB 1-D, some Palm Beach County voters may find their congressional district has changed (FL-23 boundaries are not identical to the old FL-22; coastal Palm Beach is largely consistent, but some peripheral areas may shift). Voters should verify their polling place assignment through pbcelections.org before Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.048. 2-day cure window post-election for ID-related provisional ballots."
+      },
+      {
+        "id": "rule-fl-hb1d-redistricting",
+        "topic": "HB 1-D redistricting — old FL-22 renumbered to FL-23; litigation ongoing",
+        "currentRule": "Florida HB 1-D (signed May 4, 2026) redraws all 28 congressional district boundaries effective for the August 18, 2026 primary. The OLD FL-22 (Lois Frankel's Palm Beach coastal seat) was renumbered to FL-23. The OLD FL-23 (Jared Moskowitz's Broward/Boca Raton seat) was renumbered FL-25. The new FL-23 covers the coastal Palm Beach County strip from West Palm Beach south through Boca Raton, including Palm Beach Island (Mar-a-Lago). The new FL-23 is more Democratic than the old FL-22 (D+13 vs. D+7 prior Cook PVI). The Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026; Equal Ground Education Fund v. Byrd remains active on the merits.",
+        "status": "watch",
+        "whyItMatters": "Voters in Palm Beach County should verify their updated district assignment and precinct before the August 18 primary, especially anyone whose home is near the new FL-23 / FL-25 boundary. If a court were to enjoin the new map after the primary, district assignments could change again — though this is considered unlikely for 2026 elections.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-fl-dos-elections",
+          "src-democracy-docket",
+          "src-florida-press-hb1d"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "HB 1-D signed May 4, 2026. FL Supreme Court denied preliminary injunction June 10, 2026 (6-1). Underlying Equal Ground v. Byrd lawsuit pending in First DCA."
+      },
+      {
+        "id": "rule-fl-no-early-result-release",
+        "topic": "No early results release — felony prohibition",
+        "currentRule": "Florida prohibits the release of any vote tabulation results before polls close at 7:00 p.m. on Election Day. Early canvassing of vote-by-mail ballots may begin after completion of public testing of tabulation equipment, but no results may be released or shared until after polls close. Releasing results early is a third-degree felony under Florida Statutes §101.68(2)(a).",
+        "status": "active",
+        "whyItMatters": "FL-23 observers and campaigns should not expect any partial results before 7 PM on Election Day (August 18 primary; November 3 general). Post-close results will be released through the FL Division of Elections results portal (results.elections.myflorida.com) and pbcelections.org.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-elec-code-sb90"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.68(2)(a). Third-degree felony for early result release."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-fl-dos-elections",
+        "label": "Florida Division of Elections — Official elections portal",
+        "url": "https://dos.fl.gov/elections/",
+        "description": "Official Florida elections hub: voter registration, election calendar, qualifying information, candidate data, and voting rules. Authoritative source for FL-23 election deadlines for the 2026 primary (Aug 18) and general (Nov 3).",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-register",
+        "label": "registertovoteflorida.gov — Florida online voter registration",
+        "url": "https://registertovoteflorida.gov",
+        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026 (closed primary — party registration required). General election deadline: October 5, 2026. Florida does not have same-day registration.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-register",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-palmbeach-soe",
+        "label": "pbcelections.org — Palm Beach County Supervisor of Elections",
+        "url": "https://www.pbcelections.org",
+        "description": "Official elections portal for Palm Beach County — the sole county covered by FL-23 under HB 1-D. Check precinct assignments, request VBM ballots, find early voting sites. SOE main office: 240 S Military Trail, West Palm Beach. County-wide registration totals (June 2026): 870,720 total voters; 306,308 Democrats; 297,035 Republicans; 233,153 NPA.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-palmbeach-soe",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-palmbeach-vbm",
+        "label": "Palm Beach SOE — Vote-by-Mail page",
+        "url": "https://www.pbcelections.org/Voters/Vote-By-Mail",
+        "description": "Request a vote-by-mail ballot, track its status, and find drop-off locations. Under SB 90, voters must re-request VBM each election cycle (no permanent enrollment). Primary VBM request deadline: August 6, 2026 at 5 PM. General VBM request deadline: October 22, 2026 at 5 PM.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-palmbeach-soe-vbm",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-dos-results",
+        "label": "Florida Division of Elections — Election Results",
+        "url": "https://results.elections.myflorida.com",
+        "description": "Official Florida election results portal. FL-23 primary results (August 18, 2026) and general results (November 3, 2026) will be posted after polls close at 7 PM. Releasing results before polls close is a third-degree felony under Florida law.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-senate-hb1d",
+        "label": "Florida Legislature — HB 1-D redistricting bill (2026)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Old FL-22 (Frankel's Palm Beach coastal seat) was renumbered FL-23; old FL-23 (Moskowitz) was renumbered FL-25.",
+        "governingAuthority": "Florida Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-fl-senate-hb1d",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-frankel-house",
+        "label": "Rep. Lois Frankel — Official House website",
+        "url": "https://frankel.house.gov",
+        "description": "Frankel's official congressional website. NOTE: the site still labels the district 'FL-22' (pre-HB-1-D numbering). She is the incumbent in the new FL-23 effective for the 2026 cycle.",
+        "governingAuthority": "U.S. House of Representatives",
+        "sourceType": "official-district",
+        "sourceId": "src-frankel-house",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-democracy-docket",
+        "label": "Democracy Docket — Equal Ground Education Fund v. Byrd (HB 1-D litigation)",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
+        "description": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1). First DCA appeal ongoing.",
+        "governingAuthority": "Democracy Docket",
+        "sourceType": "secondary",
+        "sourceId": "src-democracy-docket",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-ballotpedia-fl23-warning",
+        "label": "Ballotpedia — FL-23 (CAUTION: data lag — shows pre-HB-1-D candidates)",
+        "url": "https://ballotpedia.org/Florida%27s_23rd_Congressional_District_election,_2026",
+        "description": "CAUTION: As of June 2026, Ballotpedia's FL-23 2026 election page still shows the OLD FL-23 roster (Jared Moskowitz's seat — now FL-25 under HB 1-D). DO NOT use Ballotpedia FL-23 for Frankel's race. Use Wikipedia's 2026 Florida U.S. House page or Florida DOS instead.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-fl23-warning",
+        "lastVerified": "2026-06-15"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-fl23-001",
+        "title": "HEADS UP: FL-23 was renumbered under HB 1-D — this is Frankel's old FL-22 seat",
+        "fieldChanged": "District identity / numbering",
+        "oldValue": "Pre-HB-1-D FL-23 = Jared Moskowitz's Broward/Boca Raton seat (Cook PVI D+5, suburban competitive)",
+        "newValue": "Under HB 1-D (signed May 4, 2026), the OLD FL-23 (Moskowitz) was renumbered FL-25. The NEW FL-23 corresponds to former FL-22 — Rep. Lois Frankel's Palm Beach County coastal seat. The new FL-23 covers the coastal strip from West Palm Beach south through Boca Raton, including Palm Beach Island (Mar-a-Lago). Partisan lean: approximately D+13 (more Democratic than the old FL-22's D+7) because HB 1-D removed western Palm Beach County (more Republican) from the district. Voters looking up 'FL-23' from pre-2026 sources may find Moskowitz-era candidates — they are now in FL-25.",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-florida-press-hb1d",
+          "src-wikipedia-fl-house-2026"
+        ],
+        "detectedAt": "2026-06-15T16:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-fl23-002",
+        "title": "Frankel running for 8th term; faces 2-way Democratic primary challenge",
+        "fieldChanged": "Candidate field",
+        "oldValue": "Pre-qualifying (before June 12, 2026)",
+        "newValue": "Frankel (D, incumbent since 2013) faces a Democratic primary on August 18 against Victoria Doyle (Lake Worth Beach progressive challenger, retired IP attorney) and Mark Piper (West Palm Beach insurance agent). Fundraising: Frankel $1.86M raised / $1.46M cash on hand; Doyle $168K raised but nearly depleted ($4.5K cash on hand); Piper minimal/no FEC committee found. Republican primary: Deborah Adeimy ($57K cash on hand; 2022 + 2024 GOP nominee vs. Frankel) vs. Paola Branda (teacher, ~$5K self-loan only). Notable Republican non-starters: Kaufman, Dorcé, Gurfein, Hamilton failed to qualify. Frankel's prior GOP opponent Dan Franzese moved to FL-25; billionaire Herbie Wertheim withdrew. District is rated Safe/Solid D — the Democratic primary effectively decides the seat.",
+        "sourceIds": [
+          "src-fl-dos-frankel-filing",
+          "src-wikipedia-fl-house-2026",
+          "src-fec-frankel",
+          "src-fec-doyle",
+          "src-stet-pbc-races"
+        ],
+        "detectedAt": "2026-06-15T16:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-fl23-003",
+        "title": "FL-23 dashboard initialized — 17 sources, 18 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 15, 2026. 17 sources verified (FL DOS, Palm Beach SOE, FL Statutes Ch. 101, SB 90 bill text, HB 1-D bill text, FEC committee pages for Frankel + Doyle, Frankel House.gov, Wikipedia, Ballotpedia [with staleness warning], Democracy Docket, WLRN, Florida Press, Stet News, NRF). 18 election events and 11 voting rules researched from FL DOS and FL Statutes. All events and rules marked needsReview/unconfirmed pending Palm Beach SOE 2026 calendar confirmation.",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-palmbeach-soe",
+          "src-fl-elec-code-ch101"
+        ],
+        "detectedAt": "2026-06-15T16:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-fl23-001",
+        "factInQuestion": "District numbering: Multiple databases (including Ballotpedia FL-23 2026 page and Florida DOS Frankel filing) still use pre-HB-1-D numbering — creating risk of misattributing candidates between the new FL-23 (Frankel) and the old FL-23 (Moskowitz, now FL-25).",
+        "sourceAId": "src-wikipedia-fl-house-2026",
+        "sourceAClaim": "Wikipedia's 2026 U.S. House elections in Florida page, Stet News (June 13, 2026), and the FL DOS general election candidate list correctly use post-HB-1-D numbering: Frankel + Doyle + Piper in the FL-23 Democratic primary; Adeimy + Branda in the FL-23 Republican primary. The old FL-23 candidate Jared Moskowitz is now in FL-25.",
+        "sourceBId": "src-ballotpedia-fl23-warning",
+        "sourceBClaim": "Ballotpedia's FL-23 2026 election page (as of June 2026) still shows the OLD FL-23 candidate roster (Moskowitz-era, now FL-25 under HB 1-D). Frankel's individual FL DOS candidate filing (account 89248) and her FEC committee both list 'District 22' as a pre-HB-1-D artifact — they have not been administratively updated even though she is running in the new FL-23.",
+        "whyItMatters": "Any automated pipeline that pulls Ballotpedia's FL-23 page will get the wrong candidate slate (Moskowitz-era Broward/Boca Raton candidates) — not Frankel's race. Voters using the 'FL-23' label in stale databases may be misdirected. Conversely, voters or analysts searching for Frankel under 'FL-22' will hit her own DOS filing and FEC committee page, both of which still bear that old label.",
+        "suggestedReviewAction": "Use Wikipedia, Politics1.com, or Florida DOS's general election candidate list (which groups Frankel/Doyle/Piper together correctly) as primary candidate sources for FL-23. Re-check Ballotpedia FL-23 on each refresh cycle for staleness. Add explicit warnings to any UI surface that links to Ballotpedia FL-23 or Frankel's DOS filing page.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-15T16:00:00Z"
+      },
+      {
+        "id": "conf-fl23-002",
+        "factInQuestion": "Equal Ground Education Fund v. Byrd: Will the ongoing HB 1-D appeal at Florida's First DCA, or any future merits proceeding, result in a court injunction affecting FL-23 boundaries before or after the 2026 elections?",
+        "sourceAId": "src-fl-senate-hb1d",
+        "sourceAClaim": "Florida Governor DeSantis and Republican legislative leadership: HB 1-D is constitutional. The Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026; the map is confirmed in effect for the August 18 primary and November 3 general election. Qualifying proceeded under new boundaries June 8–12, 2026.",
+        "sourceBId": "src-democracy-docket",
+        "sourceBClaim": "Democracy Docket plaintiffs (Equal Ground Education Fund, Common Cause, voting rights groups): HB 1-D violates Florida's Fair Districts Amendment (Art. III, §20). The June 10 FL Supreme Court ruling addressed only the preliminary injunction standard — the merits of the constitutional challenge have not been decided. The First DCA appeal (filed May 28, 2026) remains pending; a merits ruling could affect future elections including 2028 and possibly 2026 if expedited.",
+        "whyItMatters": "For FL-23 (Frankel's seat), a successful legal challenge to HB 1-D could result in district lines being redrawn — potentially reverting to pre-HB-1-D FL-22 boundaries (which included western Palm Beach County and were less Democratic). While unlikely to affect the 2026 elections given the FL Supreme Court's June 10 ruling, the risk is non-zero and worth monitoring.",
+        "suggestedReviewAction": "Monitor Democracy Docket and the Florida First DCA docket for any preliminary injunction motions, merits trial dates, or emergency relief applications before November 3, 2026. If any court schedules a hearing or issues an order potentially affecting boundaries before Election Day, immediately escalate to high severity and update rule-fl-hb1d-redistricting, the primary event, and the Palm Beach SOE source reference.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-06-15T16:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-fl23-001",
+        "headline": "DeSantis Signs Florida Congressional Map — Frankel's Seat Renumbered FL-23",
+        "sourceName": "The Florida Press",
+        "url": "https://www.thefloridapress.com/news/desantis-signs-florida-congressional-map-creating-24-gop-leaning-districts",
+        "publishedAt": "2026-05-13",
+        "relevanceSummary": "Governor DeSantis signed HB 1-D into law on May 4, 2026, redrawing all 28 Florida congressional districts. For FL-23 specifically, the renumbering means Lois Frankel's Palm Beach County coastal seat (formerly FL-22) is now FL-23, and the old FL-23 (Jared Moskowitz) was renumbered FL-25. The new FL-23 boundaries removed western Palm Beach County, making the seat more Democratic than the old FL-22.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-002",
+        "headline": "Florida Supreme Court Clears New Congressional Map for 2026 Elections",
+        "sourceName": "WFLA Orlando / iHeart Radio",
+        "url": "https://wflaorlando.iheart.com/featured/florida-news/content/2026-06-11-florida-supreme-court-clears-new-congressional-map-for-2026/",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "The Florida Supreme Court, in a 6-1 decision on June 10, 2026, denied the emergency petition in Equal Ground Education Fund v. Byrd, ruling it lacked jurisdiction while the case remains in lower courts. The HB 1-D map — including the new FL-23 (Frankel's seat) — is confirmed for both the August 18 primary and November 3 general election.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-003",
+        "headline": "Lois Frankel Faces Primary Challenge From Lake Worth Progressive Victoria Doyle",
+        "sourceName": "WLRN (South Florida NPR)",
+        "url": "https://www.wlrn.org/light/government-politics/2026-01-15/lake-worth-lois-frankel-victoria-doyle",
+        "publishedAt": "2026-01-15",
+        "relevanceSummary": "Retired federal IP attorney Victoria Doyle, 60, of Lake Worth Beach, announced a Democratic primary challenge against 77-year-old incumbent Lois Frankel. Doyle launched her run for the seat in January 2026 (then numbered FL-22) and relaunched for the new FL-23 after HB 1-D. She refuses corporate/PAC donations and criticizes Frankel for passing only 5 laws in nearly 14 years (4 of them commemorative).",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-004",
+        "headline": "Palm Beach County 2026 Midterms: Contested Seats Recap After June 12 Qualifying",
+        "sourceName": "Stet News Palm Beach County",
+        "url": "https://stetnews.org/2026/06/13/2026-midterms-contested-seats-in-all-but-two-school-board-races-for-palm-beach-county-voters/",
+        "publishedAt": "2026-06-13",
+        "relevanceSummary": "Post-qualifying summary of Palm Beach County races, including the FL-23 Democratic primary (Frankel vs. Doyle vs. Piper) and Republican primary (Adeimy vs. Branda). Notes that multiple Republican candidates failed to qualify in FL-23 and that Frankel's previous opponent Dan Franzese moved to FL-25.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-005",
+        "headline": "NRF-Supported Voters Appeal Florida Redistricting Decision — Equal Ground v. Byrd",
+        "sourceName": "National Redistricting Foundation",
+        "url": "https://redistrictingfoundation.org/2026/05/28/nrf-supported-voters-appeal-florida-redistricting-decision/",
+        "publishedAt": "2026-05-28",
+        "relevanceSummary": "Plaintiffs in Equal Ground Education Fund v. Byrd filed their opening brief with Florida's First District Court of Appeals on May 28, 2026, after Judge Joshua Hawkes denied a preliminary injunction on May 26. The FL Supreme Court ultimately denied emergency relief on June 10 (6-1). The merits challenge to HB 1-D — including the renumbering that created the new FL-23 — remains active.",
+        "tag": "litigation",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-15-fl-23-initial",
+      "startedAt": "2026-06-15T15:00:00Z",
+      "completedAt": "2026-06-15T16:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 17,
+      "updatesCreated": 3,
+      "conflictsCreated": 2,
+      "errors": [],
+      "summary": "Initial build June 15, 2026. 17 sources verified. FL-23 under HB 1-D = former FL-22, Lois Frankel's Palm Beach County coastal seat (signed May 4, 2026). The old FL-23 (Moskowitz) is now FL-25. The new FL-23 is rated Safe/Solid D (approx. D+13; Harris ~56% in 2024 under new boundaries). Democratic primary (Aug 18): Frankel (incumbent, $1.46M COH), Doyle (progressive challenger, ~$4.5K COH), Piper. Republican primary: Adeimy vs. Branda. FL Supreme Court denied HB 1-D injunction 6-1 on June 10. 2 conflicts created: stale database numbering (conf-fl23-001, high) and HB 1-D litigation status (conf-fl23-002, medium). All 18 events and 11 rules marked needsReview/unconfirmed pending Palm Beach SOE 2026 calendar confirmation."
+    },
+    "NEXT_REFRESH_AT": "2026-06-22T12:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-fl23-2026-w25",
+      "periodStart": "2026-06-15",
+      "periodEnd": "2026-06-21",
+      "sourcesChecked": 17,
+      "newUpdates": 3,
+      "conflictsCreated": 2,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 5,
+      "needsReview": 18,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 15–21, 2026. CRITICAL CONTEXT: New FL-23 under HB 1-D = former FL-22 (Lois Frankel's Palm Beach coastal seat). Old FL-23 (Moskowitz) is now FL-25. Partisan lean approximately D+13 (Harris ~56% in 2024); rated Safe/Solid D by all major outlets. Democratic primary Aug 18: Frankel (incumbent, $1.46M COH) vs. Doyle (Lake Worth progressive, ~$4.5K COH) vs. Piper. Republican primary: Adeimy ($57K COH) vs. Branda. Multiple Republicans (Kaufman, Dorcé, Gurfein, Hamilton) failed to qualify. Franzese (Frankel's prior opponent) moved to FL-25. Mar-a-Lago sits within FL-23. Key FL rules: closed primary (party reg by July 20), photo ID, SB 90 VBM request renewal per cycle, SB 90 drop box restrictions. 2 conflicts created: stale database numbering — Ballotpedia FL-23 still shows Moskowitz-era candidates; Frankel's DOS filing + FEC committee still read 'District 22' (conf-fl23-001, high); HB 1-D litigation status (conf-fl23-002, medium).",
+      "generatedAt": "2026-06-15T16:00:00Z"
+    }
+  }
+}
