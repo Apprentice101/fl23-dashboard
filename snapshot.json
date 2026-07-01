@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-15",
-  "updatedAt": "2026-06-15T16:00:00Z",
-  "exportedAt": "2026-07-01T05:38:42.287Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:46:31.718Z",
+  "exportedAt": "2026-07-01T20:02:35.120Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -768,7 +768,7 @@
       {
         "id": "rule-fl-no-early-result-release",
         "topic": "No early results release — felony prohibition",
-        "currentRule": "Florida prohibits the release of any vote tabulation results before polls close at 7:00 p.m. on Election Day. Early canvassing of vote-by-mail ballots may begin after completion of public testing of tabulation equipment, but no results may be released or shared until after polls close. Releasing results early is a third-degree felony under Florida Statutes §101.68(2)(a).",
+        "currentRule": "Florida prohibits the release of any vote tabulation results before the polls close on Election Day. The county canvassing board may begin canvassing vote-by-mail ballots upon completion of the public testing of automatic tabulating equipment under s. 101.5612(2), but must begin such canvassing no later than noon on the day following the election. However, “no result shall be released until after the closing of the polls in that county on election day.” Any supervisor, deputy supervisor, canvassing board member, election board member, or election employee who releases such results before the closing of the polls in that county on election day “commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.”",
         "status": "active",
         "whyItMatters": "FL-23 observers and campaigns should not expect any partial results before 7 PM on Election Day (August 18 primary; November 3 general). Post-close results will be released through the FL Division of Elections results portal (results.elections.myflorida.com) and pbcelections.org.",
         "governingLevel": "statewide",
@@ -1007,17 +1007,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-15-fl-23-initial",
-      "startedAt": "2026-06-15T15:00:00Z",
-      "completedAt": "2026-06-15T16:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 17,
-      "updatesCreated": 3,
-      "conflictsCreated": 2,
+      "id": "run-2026-07-01-fl23-auto",
+      "startedAt": "2026-07-01T19:46:24.187Z",
+      "completedAt": "2026-07-01T19:46:31.718Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 11,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 15, 2026. 17 sources verified. FL-23 under HB 1-D = former FL-22, Lois Frankel's Palm Beach County coastal seat (signed May 4, 2026). The old FL-23 (Moskowitz) is now FL-25. The new FL-23 is rated Safe/Solid D (approx. D+13; Harris ~56% in 2024 under new boundaries). Democratic primary (Aug 18): Frankel (incumbent, $1.46M COH), Doyle (progressive challenger, ~$4.5K COH), Piper. Republican primary: Adeimy vs. Branda. FL Supreme Court denied HB 1-D injunction 6-1 on June 10. 2 conflicts created: stale database numbering (conf-fl23-001, high) and HB 1-D litigation status (conf-fl23-002, medium). All 18 events and 11 rules marked needsReview/unconfirmed pending Palm Beach SOE 2026 calendar confirmation."
+      "summary": "Automated refresh completed 2026-07-01 for FL-23. Sources checked: 11. LLM verifications: 1. 1 rule/source content change + 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-22T12:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:46:31.718Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
