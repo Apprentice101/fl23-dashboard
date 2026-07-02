@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:46:31.718Z",
-  "exportedAt": "2026-07-01T20:02:35.120Z",
+  "exportedAt": "2026-07-02T04:25:53.618Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -545,8 +545,8 @@
           "src-palmbeach-soe",
           "src-wikipedia-fl-house-2026"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "confirmed"
       },
       {
@@ -610,7 +610,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-15",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Florida Statutes §101.043. Voters without ID may cast a provisional ballot; 2-day post-election ID cure window applies."
       },
       {
