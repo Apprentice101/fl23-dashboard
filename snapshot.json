@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:20:30.971Z",
-  "exportedAt": "2026-07-03T00:36:28.155Z",
+  "updatedAt": "2026-07-03T01:26:33.647Z",
+  "exportedAt": "2026-07-03T01:41:58.727Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -1004,20 +1004,50 @@
         "relevanceSummary": "Plaintiffs in Equal Ground Education Fund v. Byrd filed their opening brief with Florida's First District Court of Appeals on May 28, 2026, after Judge Joshua Hawkes denied a preliminary injunction on May 26. The FL Supreme Court ultimately denied emergency relief on June 10 (6-1). The merits challenge to HB 1-D — including the renumbering that created the new FL-23 — remains active.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-09bapjm",
+        "headline": "Florida’s 23rd Congressional District election, 2026 (August 18 Republican primary)",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/Florida's_23rd_Congressional_District_election,_2026_(August_18_Republican_primary)",
+        "publishedAt": "2026-06-25",
+        "relevanceSummary": "Ballotpedia’s update on the 2026 U.S. House elections in Florida outlines that contests, including FL-23, will be conducted under the new district map and provides administrative details on the August 18 primary for this district’s Republican voters.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0muaf0s",
+        "headline": "Florida Supreme Court rejects challenge to new GOP-drawn congressional map ahead of 2026 elections",
+        "sourceName": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/florida-supreme-court-rejects-challenge-new-gop-drawn-congressional-ma-rcna349602",
+        "publishedAt": "2026-06-20",
+        "relevanceSummary": "The Florida Supreme Court rejected a challenge to the state's new Republican-drawn congressional map, confirming that these district boundaries, including FL-23, will be used for the 2026 elections, which locks in the redistricting changes voters and candidates must operate under.[1]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0mzq5ct",
+        "headline": "Florida Supreme Court fast-tracks high-stakes fight over new congressional districts",
+        "sourceName": "YouTube – local TV news segment",
+        "url": "https://www.youtube.com/watch?v=qa_buDM46YE",
+        "publishedAt": "2026-06-15",
+        "relevanceSummary": "A local news report explains that the Florida Supreme Court agreed to expedite a case by voting-rights groups seeking to block the new congressional map before the 2026 elections, detailing ongoing litigation that could still affect the lines and representation of districts such as FL-23.[3]",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-fl23-auto",
-      "startedAt": "2026-07-03T00:18:09.792Z",
-      "completedAt": "2026-07-03T00:20:30.971Z",
+      "startedAt": "2026-07-03T01:26:14.196Z",
+      "completedAt": "2026-07-03T01:26:33.647Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 0,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for FL-23. Sources checked: 11. LLM verifications: 4. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for FL-23. Sources checked: 11. LLM verifications: 3. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:20:30.971Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:26:33.647Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
