@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T19:46:31.718Z",
-  "exportedAt": "2026-07-03T00:02:44.898Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:20:30.971Z",
+  "exportedAt": "2026-07-03T00:36:28.155Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1007,17 +1007,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-01-fl23-auto",
-      "startedAt": "2026-07-01T19:46:24.187Z",
-      "completedAt": "2026-07-01T19:46:31.718Z",
+      "id": "run-2026-07-03-fl23-auto",
+      "startedAt": "2026-07-03T00:18:09.792Z",
+      "completedAt": "2026-07-03T00:20:30.971Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 1,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-01 for FL-23. Sources checked: 11. LLM verifications: 1. 1 rule/source content change + 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for FL-23. Sources checked: 11. LLM verifications: 4. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T19:46:31.718Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:20:30.971Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
