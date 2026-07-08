@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:23:18.738Z",
-  "exportedAt": "2026-07-08T06:27:55.878Z",
+  "updatedAt": "2026-07-08T19:36:35.532Z",
+  "exportedAt": "2026-07-08T19:42:44.045Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -1038,16 +1038,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-fl23-auto",
-      "startedAt": "2026-07-08T06:23:14.687Z",
-      "completedAt": "2026-07-08T06:23:18.738Z",
+      "startedAt": "2026-07-08T19:36:31.718Z",
+      "completedAt": "2026-07-08T19:36:35.532Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for FL-23. Sources checked: 12. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for FL-23. Sources checked: 12. LLM verifications: 3. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:23:18.738Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:36:35.532Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
