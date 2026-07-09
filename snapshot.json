@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:36:35.532Z",
-  "exportedAt": "2026-07-08T20:34:38.316Z",
+  "exportedAt": "2026-07-09T17:03:25.727Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -784,50 +784,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-fl-dos-elections",
-        "label": "Florida Division of Elections — Official elections portal",
-        "url": "https://dos.fl.gov/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Florida elections hub: voter registration, election calendar, qualifying information, candidate data, and voting rules. Authoritative source for FL-23 election deadlines for the 2026 primary (Aug 18) and general (Nov 3).",
+        "url": "https://dos.fl.gov/elections/",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
         "sourceId": "src-fl-dos-elections",
-        "lastVerified": "2026-06-15"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-fl-register",
-        "label": "registertovoteflorida.gov — Florida online voter registration",
-        "url": "https://registertovoteflorida.gov",
-        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026 (closed primary — party registration required). General election deadline: October 5, 2026. Florida does not have same-day registration.",
-        "governingAuthority": "Florida Department of State",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Florida county Supervisor of Elections directory — find your county's polling places.",
+        "url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/",
+        "governingAuthority": "Florida Division of Elections",
         "sourceType": "official-state",
-        "sourceId": "src-fl-dos-register",
-        "lastVerified": "2026-06-15"
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-palmbeach-soe",
-        "label": "pbcelections.org — Palm Beach County Supervisor of Elections",
-        "url": "https://www.pbcelections.org",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official list of early voting sites which serve as secure ballot intake stations (drop boxes) for returning vote-by-mail ballots.",
+        "url": "https://www.votepalmbeach.gov/167/Early-Voting",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-fl23-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
         "description": "Official elections portal for Palm Beach County — the sole county covered by FL-23 under HB 1-D. Check precinct assignments, request VBM ballots, find early voting sites. SOE main office: 240 S Military Trail, West Palm Beach. County-wide registration totals (June 2026): 870,720 total voters; 306,308 Democrats; 297,035 Republicans; 233,153 NPA.",
+        "url": "https://www.pbcelections.org",
         "governingAuthority": "Palm Beach County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-palmbeach-soe",
-        "lastVerified": "2026-06-15"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-palmbeach-vbm",
-        "label": "Palm Beach SOE — Vote-by-Mail page",
-        "url": "https://www.pbcelections.org/Voters/Vote-By-Mail",
+        "id": "res-track",
+        "label": "Track your ballot",
         "description": "Request a vote-by-mail ballot, track its status, and find drop-off locations. Under SB 90, voters must re-request VBM each election cycle (no permanent enrollment). Primary VBM request deadline: August 6, 2026 at 5 PM. General VBM request deadline: October 22, 2026 at 5 PM.",
+        "url": "https://www.pbcelections.org/Voters/Vote-By-Mail",
         "governingAuthority": "Palm Beach County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-palmbeach-soe-vbm",
-        "lastVerified": "2026-06-15"
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Florida election results portal. FL-26 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here during and after canvass.",
+        "url": "https://results.elections.myflorida.com",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-fl-dos-results",
         "label": "Florida Division of Elections — Election Results",
-        "url": "https://results.elections.myflorida.com",
         "description": "Official Florida election results portal. FL-23 primary results (August 18, 2026) and general results (November 3, 2026) will be posted after polls close at 7 PM. Releasing results before polls close is a third-degree felony under Florida law.",
+        "url": "https://results.elections.myflorida.com",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
         "sourceId": "src-fl-dos-elections",
@@ -836,8 +856,8 @@
       {
         "id": "res-fl-senate-hb1d",
         "label": "Florida Legislature — HB 1-D redistricting bill (2026)",
-        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Old FL-22 (Frankel's Palm Beach coastal seat) was renumbered FL-23; old FL-23 (Moskowitz) was renumbered FL-25.",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "governingAuthority": "Florida Legislature",
         "sourceType": "statutory",
         "sourceId": "src-fl-senate-hb1d",
@@ -846,8 +866,8 @@
       {
         "id": "res-frankel-house",
         "label": "Rep. Lois Frankel — Official House website",
-        "url": "https://frankel.house.gov",
         "description": "Frankel's official congressional website. NOTE: the site still labels the district 'FL-22' (pre-HB-1-D numbering). She is the incumbent in the new FL-23 effective for the 2026 cycle.",
+        "url": "https://frankel.house.gov",
         "governingAuthority": "U.S. House of Representatives",
         "sourceType": "official-district",
         "sourceId": "src-frankel-house",
@@ -856,8 +876,8 @@
       {
         "id": "res-democracy-docket",
         "label": "Democracy Docket — Equal Ground Education Fund v. Byrd (HB 1-D litigation)",
-        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
         "description": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1). First DCA appeal ongoing.",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
         "governingAuthority": "Democracy Docket",
         "sourceType": "secondary",
         "sourceId": "src-democracy-docket",
@@ -866,8 +886,8 @@
       {
         "id": "res-ballotpedia-fl23-warning",
         "label": "Ballotpedia — FL-23 (CAUTION: data lag — shows pre-HB-1-D candidates)",
-        "url": "https://ballotpedia.org/Florida%27s_23rd_Congressional_District_election,_2026",
         "description": "CAUTION: As of June 2026, Ballotpedia's FL-23 2026 election page still shows the OLD FL-23 roster (Jared Moskowitz's seat — now FL-25 under HB 1-D). DO NOT use Ballotpedia FL-23 for Frankel's race. Use Wikipedia's 2026 Florida U.S. House page or Florida DOS instead.",
+        "url": "https://ballotpedia.org/Florida%27s_23rd_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-fl23-warning",
