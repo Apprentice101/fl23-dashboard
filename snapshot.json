@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:36:35.532Z",
-  "exportedAt": "2026-07-09T17:03:25.727Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:13:03.337Z",
+  "exportedAt": "2026-07-15T06:38:41.154Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1054,20 +1054,40 @@
         "relevanceSummary": "A local news report explains that the Florida Supreme Court agreed to expedite a case by voting-rights groups seeking to block the new congressional map before the 2026 elections, detailing ongoing litigation that could still affect the lines and representation of districts such as FL-23.[3]",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0sn4w4s",
+        "headline": "Palm Beach Elections Office Mails Updated Voter Cards Ahead Of Primary",
+        "sourceName": "BocaNewsNow",
+        "url": "https://bocanewsnow.com/2026/07/09/palm-beach-elections-office-mails-updated-voter-cards-ahead-of-primary/",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "Palm Beach County’s Supervisor of Elections is mailing updated voter information cards ahead of the August 18, 2026 primary, and advises voters to verify their address, party affiliation, and precinct details via the county’s Voter Dashboard or by phone, which directly affects how FL-23 voters in Palm Beach County will confirm their registration and know where to vote.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0l2qice",
+        "headline": "Collier County Elections reminds voters to renew expired vote‑by‑mail requests",
+        "sourceName": "Collier County Elections",
+        "url": "https://www.colliervotes.gov/m/newsflash?cat=7",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "Collier County’s elections office announced that all prior-year vote‑by‑mail requests have expired and that voters must submit new requests online or by phone to receive mail ballots.[4] While specific to Collier County, this reflects statewide changes in Florida vote‑by‑mail rules that also apply to FL-23 voters and may prompt them to confirm or renew their own mail‑ballot requests.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-fl23-auto",
-      "startedAt": "2026-07-08T19:36:31.718Z",
-      "completedAt": "2026-07-08T19:36:35.532Z",
+      "id": "run-2026-07-15-fl23-auto",
+      "startedAt": "2026-07-15T06:12:38.804Z",
+      "completedAt": "2026-07-15T06:13:03.337Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 0,
+      "sourcesChecked": 11,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for FL-23. Sources checked: 12. LLM verifications: 3. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for FL-23. Sources checked: 11. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:36:35.532Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:13:03.337Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
