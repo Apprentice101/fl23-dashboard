@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:13:03.337Z",
-  "exportedAt": "2026-07-15T06:38:41.154Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:27:44.947Z",
+  "exportedAt": "2026-07-22T06:49:54.060Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1074,20 +1074,30 @@
         "relevanceSummary": "Collier County’s elections office announced that all prior-year vote‑by‑mail requests have expired and that voters must submit new requests online or by phone to receive mail ballots.[4] While specific to Collier County, this reflects statewide changes in Florida vote‑by‑mail rules that also apply to FL-23 voters and may prompt them to confirm or renew their own mail‑ballot requests.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0ck31ch",
+        "headline": "Palm Beach County voters can now view August primary sample ballots",
+        "sourceName": "CBS12",
+        "url": "https://cbs12.com/news/local/voting-guide-what-to-expect-palm-beach-county-august-primary-sample-ballots-released-after-florida-redistricting-delay-democratic-republican-nonpartisan-senate-us-house-governor-voting-election-august-18-",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "The story reports that Palm Beach County sample ballots are available and gives key primary deadlines, including voter-registration changes by July 20, vote-by-mail requests by Aug. 6 at 5 p.m., and early voting from Aug. 8 to Aug. 16. FL-23 voters in Palm Beach County need this procedural information to vote in the primary.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-fl23-auto",
-      "startedAt": "2026-07-15T06:12:38.804Z",
-      "completedAt": "2026-07-15T06:13:03.337Z",
+      "id": "run-2026-07-22-fl23-auto",
+      "startedAt": "2026-07-22T06:27:13.127Z",
+      "completedAt": "2026-07-22T06:27:44.947Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 3,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for FL-23. Sources checked: 11. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for FL-23. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:13:03.337Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:27:44.947Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
