@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:27:44.947Z",
-  "exportedAt": "2026-07-22T21:15:06.305Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:29:38.204Z",
+  "exportedAt": "2026-07-29T06:53:15.144Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1084,20 +1084,60 @@
         "relevanceSummary": "The story reports that Palm Beach County sample ballots are available and gives key primary deadlines, including voter-registration changes by July 20, vote-by-mail requests by Aug. 6 at 5 p.m., and early voting from Aug. 8 to Aug. 16. FL-23 voters in Palm Beach County need this procedural information to vote in the primary.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0cvw7hw",
+        "headline": "House passes stock trading ban for Congress members with bipartisan support that included a voter ID provision",
+        "sourceName": "WEAR-TV",
+        "url": "https://weartv.com/topic/Voter%20ID%20provision",
+        "publishedAt": "2026-07-28",
+        "relevanceSummary": "Reports that the U.S. House approved a package combining a stock-trading ban for members of Congress with a nationwide voter ID provision, seeking to require valid physical photo identification for federal voting and strengthen verification alternatives for mail-in ballots, a potential federal rule change that would directly affect Florida and FL-23 voters if enacted.[6][1]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-07macck",
+        "headline": "Are you voting by mail in Florida primary? You'll need to request a ballot",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/2026/07/24/new-florida-law-requires-voters-request-mail-in-ballots-every-two-years/90875599007/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "Explains that under Florida’s updated vote-by-mail law, voters must submit a new mail-ballot request every two years and provide a Florida driver license/ID number or last four digits of their Social Security number, with deadlines and return rules that apply statewide to all Florida voters, including those in FL-23.[8]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0woxt3p",
+        "headline": "How Florida election supervisors are protecting the 2026 vote",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/22/florida-election-security-trump-what-to-know-mail-ballot-fraud/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "Details how Florida supervisors of elections maintain accurate voter registration rolls, verify eligibility, and implement election security measures, while reiterating statewide requirements such as presenting a valid photo ID for in-person voting that apply to all Florida voters, including those in FL-23.[9]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0ofs4kz",
+        "headline": "Duval elections office reminds voters of July 20 registration deadline and vote-by-mail rules",
+        "sourceName": "Duval County Supervisor of Elections",
+        "url": "https://www.duvalelections.gov/m/newsflash?cat=7",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "Announces a county registration and party-change deadline for the August primary and explains current Florida vote-by-mail request requirements, including the need to provide a driver license/ID number or last four of Social Security and to keep voter registration information updated, illustrating procedures that are governed by the same statewide laws affecting FL-23 voters.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-fl23-auto",
-      "startedAt": "2026-07-22T06:27:13.127Z",
-      "completedAt": "2026-07-22T06:27:44.947Z",
+      "id": "run-2026-07-29-fl23-auto",
+      "startedAt": "2026-07-29T06:29:24.547Z",
+      "completedAt": "2026-07-29T06:29:38.204Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 1,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for FL-23. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:27:44.947Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:29:38.204Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
