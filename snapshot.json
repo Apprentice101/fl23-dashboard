@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:29:38.204Z",
-  "exportedAt": "2026-07-29T06:53:15.144Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:25:19.066Z",
+  "exportedAt": "2026-08-05T06:46:59.457Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1124,20 +1124,60 @@
         "relevanceSummary": "Announces a county registration and party-change deadline for the August primary and explains current Florida vote-by-mail request requirements, including the need to provide a driver license/ID number or last four of Social Security and to keep voter registration information updated, illustrating procedures that are governed by the same statewide laws affecting FL-23 voters.[7]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0xrgen5",
+        "headline": "Florida legislators are advancing House Bill 985, which mandates citizenship verification for voter registration and introduces stricter ID requirements.",
+        "sourceName": "Election Desk",
+        "url": "https://electiondesk.org/tag/florida/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This Florida legislative coverage says lawmakers are advancing a bill that would require citizenship verification for voter registration and tighten ID rules. Because FL-23 voters are Florida voters, any statewide rule change on registration or identification would directly affect them.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0tttec2",
+        "headline": "Claims of noncitizens on voter rolls leave states baffled",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "NPR reports that election officials are questioning claims from Trump officials about more than 250,000 noncitizens on voter rolls, with states still trying to verify the basis for the numbers. Any Florida response to this issue could affect statewide voter-registration and list-maintenance practices for FL-23 voters.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0e4xvpm",
+        "headline": "Uthmeier announces felony charges against a Canadian ...",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/uthmeier-announces-felony-charges-against-200446550.html",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "Florida Attorney General James Uthmeier said a shared federal database helped identify a Canadian citizen accused of voting illegally in Florida seven times, underscoring ongoing statewide voter-registration and election-integrity enforcement. Because Florida rules apply in FL-23, voters in the district should know about actions that may influence registration checks and election administration statewide.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-08bl8zu",
+        "headline": "Election 2026 | Florida, National Election Results | ClickOrlando",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "This election hub includes Florida procedural coverage that directly affects FL-23 voters, including reports that a federal judge blocked use of a revamped federal tool for identifying noncitizen registrations and that the Florida Department of State said a candidate did not properly qualify for the November ballot. Those are statewide election-administration and ballot-access issues that can affect how Floridians vote and who appears on the general-election ballot.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-fl23-auto",
-      "startedAt": "2026-07-29T06:29:24.547Z",
-      "completedAt": "2026-07-29T06:29:38.204Z",
+      "id": "run-2026-08-05-fl23-auto",
+      "startedAt": "2026-08-05T06:25:06.788Z",
+      "completedAt": "2026-08-05T06:25:19.066Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:29:38.204Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:25:19.066Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
