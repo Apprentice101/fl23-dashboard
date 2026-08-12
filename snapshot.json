@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:25:19.066Z",
-  "exportedAt": "2026-08-05T06:46:59.457Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:28:38.186Z",
+  "exportedAt": "2026-08-12T05:46:31.699Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1164,20 +1164,90 @@
         "relevanceSummary": "This election hub includes Florida procedural coverage that directly affects FL-23 voters, including reports that a federal judge blocked use of a revamped federal tool for identifying noncitizen registrations and that the Florida Department of State said a candidate did not properly qualify for the November ballot. Those are statewide election-administration and ballot-access issues that can affect how Floridians vote and who appears on the general-election ballot.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0tnrdez",
+        "headline": "Sunburn — The morning read of what's hot in Florida politics — 8.7.26",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/811881-sunburn-the-morning-read-of-whats-hot-in-florida-politics-8-7-26/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This roundup reports that Gov. DeSantis plans to move forward with a rewritten ballot title and summary for Amendment 3 after a Leon County judge found the original language misleading. That statewide ballot-language ruling affects Florida voters, including those in FL-23, because it shapes what appears on the November ballot.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0vcxmhd",
+        "headline": "August 18, 2026 Primary Election Information Page",
+        "sourceName": "Vote Pinellas",
+        "url": "https://www.votepinellas.gov/375/August-18-2026-Primary-Election-Informat",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "Although this is Pinellas County, it provides concrete examples of Florida election administration details such as voter-registration deadlines, vote-by-mail request deadlines, polling hours, and cure procedures. County procedures like these are relevant to FL-23 voters as Florida election rules often operate the same way across counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0u1x0qy",
+        "headline": "Sunburn — The morning read of what's hot in Florida politics — 8.6.26",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/811575-sunburn-the-morning-read-of-whats-hot-in-florida-politics-8-6-26/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This statewide election update says August 6 was the deadline to request a vote-by-mail ballot for the Aug. 18 primary, which matters to FL-23 voters under Florida election rules. It is a direct procedural reminder about mail-ballot access and timing.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0blg98x",
+        "headline": "Your complete Election Guide for Palm Beach County and state races",
+        "sourceName": "AOL",
+        "url": "https://www.aol.com/articles/complete-election-guide-palm-beach-115106000.html",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "Palm Beach County procedures matter to many FL-23 voters, and this guide appears to compile county and statewide election logistics relevant to casting a ballot. Because county-level administration often affects polling and ballot access, this is moderately to highly relevant.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0x0hmxb",
+        "headline": "Florida Early Voting Commences: ID Requirements, Deadlines, Dates",
+        "sourceName": "Floridian Press",
+        "url": "https://floridianpress.com/2026/08/juice%F0%9F%8D%8A-8-6-2026-early-voting-underway-florida-chamber-of-commerce-endorses-ashley-moody-and-more/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This Florida-wide item is directly relevant because it discusses early voting timing, deadlines, and ID requirements that apply to FL-23 voters under statewide rules. The story is especially useful for voters needing quick information on acceptable identification and ballot-casting procedures.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0pk0dap",
+        "headline": "Sunburn — The morning read of what's hot in Florida politics — 8.5.26",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/811285-sunburn-the-morning-read-of-whats-hot-in-florida-politics-8-5-26/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This statewide Florida election item reports that a Leon County judge declared the ballot title and summary for Amendment 3 “clearly and conclusively defective.” That legal ruling affects how Florida voters, including FL-23 residents, will see and understand a statewide ballot measure.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0297grj",
+        "headline": "Palm Beach Post voter guide for US House District 23 primary",
+        "sourceName": "Palm Beach Post",
+        "url": "https://www.palmbeachpost.com/story/news/politics/elections/2026/08/05/palm-beach-post-voter-guide-for-us-house-district-23-primary/90663362007/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This district-specific voter guide is directly relevant to FL-23 voters because it covers the local congressional race and likely includes practical election information for the primary. Even if the focus is broader than procedure, it is a useful voter-resource item for district residents.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-fl23-auto",
-      "startedAt": "2026-08-05T06:25:06.788Z",
-      "completedAt": "2026-08-05T06:25:19.066Z",
+      "id": "run-2026-08-12-fl23-auto",
+      "startedAt": "2026-08-12T05:28:25.348Z",
+      "completedAt": "2026-08-12T05:28:38.186Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 4,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:25:19.066Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:28:38.186Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
