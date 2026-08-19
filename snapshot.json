@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:28:38.186Z",
-  "exportedAt": "2026-08-12T05:46:31.699Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:35:37.484Z",
+  "exportedAt": "2026-08-19T05:06:40.744Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1234,20 +1234,100 @@
         "relevanceSummary": "This district-specific voter guide is directly relevant to FL-23 voters because it covers the local congressional race and likely includes practical election information for the primary. Even if the focus is broader than procedure, it is a useful voter-resource item for district residents.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-04godwo",
+        "headline": "Florida Voting Information",
+        "sourceName": "Vote411",
+        "url": "https://www.vote411.org/florida",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This nonpartisan voter guide explains that Florida has closed party primaries where only voters registered with a party may participate, meaning FL‑23 voters must ensure their party registration status is correct to vote in relevant primaries.[14]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0880qah",
+        "headline": "Today is Florida primary election day. Here's what voters need to know",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2026/08/18/florida-primary-election-today-voting-what-to-bring/91349069007/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This statewide voter-resource explains Florida’s Election Day procedures, including that voters must vote at their assigned polling location, must present a current valid photo ID with signature, and that completed vote‑by‑mail ballots must be returned to secure drop boxes at county election offices by 7 p.m. on Election Day.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0gi5rpc",
+        "headline": "What you need to know to cast a vote in Florida's primary election",
+        "sourceName": "News4JAX",
+        "url": "https://www.news4jax.com/vote-2026/2026/08/17/what-you-need-to-know-to-cast-a-vote-in-floridas-primary-election/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This guide lists acceptable identification documents for Florida voters (including driver license, state ID, passport, military and student IDs), explains provisional ballots for those without ID, and reiterates that FL‑23 voters must vote at their assigned precinct and ensure vote‑by‑mail ballots arrive by 7 p.m. on Election Day.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0l1d032",
+        "headline": "Florida primary election 2026: Everything you need to know",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/08/18/florida-primary-election-today-everything-you-need-to-know/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This statewide explainer details Florida voting procedures, including the requirement for a current and valid photo and signature ID at polling places, provisional ballot rules if a voter lacks proper ID, and poll hours (7 a.m. to 7 p.m.), all of which directly govern how FL‑23 voters cast ballots in person.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-02d6bui",
+        "headline": "Florida primary is almost here. Key voting dates for rest of 2026",
+        "sourceName": "AOL",
+        "url": "https://www.aol.com/articles/florida-primary-almost-key-voting-152838000.html",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This statewide overview highlights key registration and voting deadlines for the remainder of 2026 and notes that Floridians can register or update voter information through tax collectors’ offices that issue driver licenses or state IDs, providing FL‑23 voters with actionable information on voter registration logistics.[11]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0gsoue9",
+        "headline": "Florida Secretary of State Cord Byrd Issues Election Readiness Update for the August 18 Primary Election",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/florida-secretary-of-state-cord-byrd-issues-election-readiness-update-for-the-august-18-primary-election/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "The Secretary of State’s statewide guidance clarifies that FL‑23 voters must vote at their assigned polling place on Election Day, that polls are open from 7 a.m. to 7 p.m., and that a current and valid photo ID is required at the polls for both early voting and Election Day.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-08mpl2p",
+        "headline": "Florida Election Day is Aug. 18. What you need to know",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/florida-election-day-aug-18-090703970.html",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "This piece summarizes key Florida Election Day procedures, including that voters must cast ballots at their assigned polling locations, that vote‑by‑mail or absentee ballots must be received at county elections offices by 7 p.m., and that voters should be prepared to show identification such as a driver's license.[13]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-061yvf6",
+        "headline": "Early voting ends soon. How to vote before Tuesday's Florida primary",
+        "sourceName": "AOL",
+        "url": "https://www.aol.com/articles/early-voting-ends-soon-vote-185719000.html",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This article outlines Florida’s early voting and mail‑ballot procedures, noting that the deadline to request a mail‑in ballot has passed and detailing the photo‑ID and signature requirements, along with the list of acceptable IDs (driver license, state ID, passport, military ID, student ID, etc.), which apply to FL‑23 voters.[8]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-fl23-auto",
-      "startedAt": "2026-08-12T05:28:25.348Z",
-      "completedAt": "2026-08-12T05:28:38.186Z",
+      "id": "run-2026-08-19-fl23-auto",
+      "startedAt": "2026-08-19T04:35:15.006Z",
+      "completedAt": "2026-08-19T04:35:37.484Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:28:38.186Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:35:37.484Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
