@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:35:37.484Z",
-  "exportedAt": "2026-08-19T05:06:40.744Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:39:11.556Z",
+  "exportedAt": "2026-08-26T05:14:34.825Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1314,20 +1314,100 @@
         "relevanceSummary": "This article outlines Florida’s early voting and mail‑ballot procedures, noting that the deadline to request a mail‑in ballot has passed and detailing the photo‑ID and signature requirements, along with the list of acceptable IDs (driver license, state ID, passport, military ID, student ID, etc.), which apply to FL‑23 voters.[8]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0ycdsjo",
+        "headline": "General Election | Lee County Elections, FL",
+        "sourceName": "Lee County Supervisor of Elections",
+        "url": "https://www.lee.vote/254/November-3-2026",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Outlines Florida-consistent rules for the November 3, 2026 general election: a 5 p.m. October 22 deadline to request a vote-by-mail ballot, a 7 p.m. Election Day receipt deadline, guidance to mail ballots by October 20, and rules for returning ballots at secure ballot intake stations and election offices, providing a concrete example of procedures that also govern FL-23 voters.[14]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0cwd3qq",
+        "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+        "sourceName": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "Covers a U.S. Supreme Court order allowing certain federal vote-by-mail limits to proceed while a separate nationwide injunction continues to block USPS from implementing new mail procedures for the upcoming election, information that helps Florida voters in FL-23 understand which national mail-ballot rules are currently in effect.[8]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0su9mw8",
+        "headline": "2026 General Election",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/2026-General-Election",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "Provides detailed county-level implementation of Florida’s statewide rules: any registered voter may choose vote-by-mail, with an October 22, 2026, 5 p.m. deadline to request ballots and a requirement that ballots be received by 7 p.m. on Election Day, as well as early-voting dates and secure ballot intake station usage, mirroring procedures FL-23 voters will encounter in Broward County.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0qqlnxy",
+        "headline": "USPS publishes new rule requiring states to submit voter data before mailing ballots",
+        "sourceName": "WJAR / Turnto10",
+        "url": "https://turnto10.com/news/nation-world/usps-publishes-new-rule-requiring-states-to-submit-voter-data-before-mailing-ballots-mail-in-united-states-postal-service-vote-voters-voter-fraud-politics-president-donald-trump",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "Details a new USPS standard requiring states to submit voter and ballot-tracking information through a federal portal before mailing absentee or mail ballots for federal elections, which could affect Florida's mailing timelines and data practices for FL-23 voters who use vote-by-mail.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-023spxi",
+        "headline": "US Postal Service issues rules to tighten mail-in voting if court gives OK",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/world/us-postal-service-issues-rules-tighten-mail-in-voting-if-court-gives-ok-2026-08-22/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "Reports that USPS has adopted a rule for federal elections requiring states to provide names and barcodes tied to their mail ballots and to use unique barcodes on outbound and return envelopes, which could change how Florida and Broward election officials process and track vote-by-mail ballots for FL-23 voters if the rule takes effect.[7]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-08j6avl",
+        "headline": "Voting groups help get Americans to the ballot box",
+        "sourceName": "WUSF",
+        "url": "https://wusf.org/text/politics-issues/2026-08-20/voting-groups-help-get-americans-to-ballot-box",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Describes Florida-focused voter outreach and explains that residents can preregister to vote starting at age 16 and must be at least 18 to vote, reinforcing statewide voter-registration rules that apply to young and first-time voters in FL-23.[13]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0ybt45h",
+        "headline": "Deadline - Mail and Provisional Ballot Cures",
+        "sourceName": "Pinellas County Supervisor of Elections",
+        "url": "https://www.votepinellas.gov/Calendar.aspx?EID=763",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Announces the statutory 5 p.m. deadline on August 20, 2026, for voters to submit cure affidavits for mail and provisional ballots, illustrating how Florida's statewide cure window is implemented at the county level and signaling similar deadlines that Broward and FL-23 voters must meet to fix ballot issues.[1]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0kqmnwv",
+        "headline": "What the Primary Revealed About Florida's Election Machinery",
+        "sourceName": "The Florida Press",
+        "url": "https://www.thefloridapress.com/news/what-the-primary-revealed-about-floridas-election-machinery",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Explains statewide Florida election procedures that apply to FL-23 voters, including that vote-by-mail requires a request that now expires each general-election cycle, stricter staffed drop-box rules with limited hours, and continued signature-matching with a cure window for mismatched signatures, all of which directly affect how Broward voters cast and cure their ballots.[6]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-fl23-auto",
-      "startedAt": "2026-08-19T04:35:15.006Z",
-      "completedAt": "2026-08-19T04:35:37.484Z",
+      "id": "run-2026-08-26-fl23-auto",
+      "startedAt": "2026-08-26T04:38:38.325Z",
+      "completedAt": "2026-08-26T04:39:11.556Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:35:37.484Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:39:11.556Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
