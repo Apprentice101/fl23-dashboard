@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:39:11.556Z",
-  "exportedAt": "2026-08-26T05:14:34.825Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:25:08.196Z",
+  "exportedAt": "2026-09-02T09:08:19.289Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1394,20 +1394,40 @@
         "relevanceSummary": "Explains statewide Florida election procedures that apply to FL-23 voters, including that vote-by-mail requires a request that now expires each general-election cycle, stricter staffed drop-box rules with limited hours, and continued signature-matching with a cure window for mismatched signatures, all of which directly affect how Broward voters cast and cure their ballots.[6]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0cscoik",
+        "headline": "Federal judge lifts all blocks on Trump mail-in ballots ...",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/federal-judge-lifts-blocks-trump-mail-ballots-executive/story?id=135981337",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This court ruling is relevant to FL-23 voters because it concerns federal mail-ballot rules that could influence Florida voters who cast ballots by mail. The story reports that a federal judge lifted the remaining block on the mail-voting order after the Supreme Court said the legal challenges were premature.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0rkgu80",
+        "headline": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+        "sourceName": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This national court-development story matters to FL-23 voters because it concerns mail-voting restrictions that could affect how Florida mail ballots are processed if the rule takes effect. The article says the rule would require election officials to submit each mail voter’s name and address to a new USPS portal along with barcodes tied to ballot envelopes.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-fl23-auto",
-      "startedAt": "2026-08-26T04:38:38.325Z",
-      "completedAt": "2026-08-26T04:39:11.556Z",
+      "id": "run-2026-09-02-fl23-auto",
+      "startedAt": "2026-09-02T08:24:20.649Z",
+      "completedAt": "2026-09-02T08:25:08.196Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 8,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for FL-23. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:39:11.556Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:25:08.196Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
