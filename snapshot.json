@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:25:08.196Z",
-  "exportedAt": "2026-09-02T09:08:19.289Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:38:50.273Z",
+  "exportedAt": "2026-09-09T09:18:42.055Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1414,20 +1414,100 @@
         "relevanceSummary": "This national court-development story matters to FL-23 voters because it concerns mail-voting restrictions that could affect how Florida mail ballots are processed if the rule takes effect. The article says the rule would require election officials to submit each mail voter’s name and address to a new USPS portal along with barcodes tied to ballot envelopes.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0mlaq7z",
+        "headline": "Florida ballots start going out soon: Check your vote-by-mail request",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/08/voting-deadlines-florida-vote-by-mail-ballots-dates-general-election-november/91654936007/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This article explains statewide vote‑by‑mail rules, including the deadline to request a mail ballot and the requirement that supervisors receive completed ballots by 7 p.m. on Election Day, directly governing mail‑in voting for all FL‑23 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0ho5bdg",
+        "headline": "The November 2026 Election: Everything you need to know to vote in the Midterms",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/09/08/the-november-2026-election-everything-you-need-to-know-to-vote-in-the-midterms/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This statewide explainer details Florida’s voter registration requirements, acceptable photo-and-signature IDs for in‑person voting, and rules for early voting and Election Day polling hours, all of which apply to FL‑23 voters regardless of county.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0808z2j",
+        "headline": "What to know before the voter registration deadline",
+        "sourceName": "First Coast News",
+        "url": "https://www.firstcoastnews.com/article/news/regional/florida/florida-general-election-voter-registration-update-mail-in-ballot-deadline/77-76d08c0e-7c5e-41e6-999e-8891088ec4a2",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "This statewide explainer outlines how Floridians register or update their registration, and reiterates that in‑person voters must bring a valid photo ID that includes a signature, directly informing FL‑23 voters about registration and voter‑ID requirements.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0qa5rpg",
+        "headline": "Form allows hundreds with felony convictions to find their voting eligibility under Amendment 4",
+        "sourceName": "WLRN",
+        "url": "https://www.wlrn.org/government-politics/2026-09-04/felony-convictions-florida-voting-eligibility-amendment-4",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This report describes a new state form and process for Floridians with felony convictions to confirm whether they are eligible to register and vote under Amendment 4, informing FL‑23 residents with convictions about how to assess and act on their voting eligibility.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-092jyw0",
+        "headline": "Election Dates and Activities Calendar 2026",
+        "sourceName": "Lee County Supervisor of Elections",
+        "url": "https://www.lee.vote/DocumentCenter/View/137/2026-Dates-to-Remember-07-09-2026-PDF?bidId=",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This calendar from a Florida county supervisor lists statewide statutory deadlines for mailing general‑election vote‑by‑mail ballots and for voters to submit affidavits to cure missing or mismatched signatures, illustrating signature‑cure timelines that also apply to FL‑23 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0on25wa",
+        "headline": "As Donald Trump's vote-by-mail rule raises concerns, Florida election officials are not yet preparing",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/818575-as-donald-trumps-vote-by-mail-rule-raises-concerns-florida-election-officials-are-not-yet-preparing/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This piece details Florida’s existing vote‑by‑mail safeguards—including ID requirements when requesting ballots, signature verification on returned envelopes, and the 7 p.m. Election Day receipt deadline—clarifying procedures that apply to all FL‑23 mail voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0qbcgfp",
+        "headline": "Supervisor of Elections Reminds Voters About Voting By Mail",
+        "sourceName": "Collier County Supervisor of Elections",
+        "url": "https://www.colliervotes.gov/m/newsflash/Home/Detail/117",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This county‑level notice explains how Florida voters request vote‑by‑mail ballots, including required identifying information (driver license, state ID, or last four of Social Security) and promotes ballot tracking, illustrating procedures and ID requirements that mirror those used for FL‑23 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0mx5ndj",
+        "headline": "Groups sue Florida over election law, state version of SAVE Act",
+        "sourceName": "Tallahassee Democrat / USA TODAY Network-Florida",
+        "url": "https://www.tallahassee.com/story/news/state/2026/09/03/florida-sued-over-new-voter-registration-law/91592391007/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The story covers litigation challenging HB 991, a new statewide law requiring documented proof of U.S. citizenship (such as a birth certificate or passport) for voter registration, potentially affecting how new and returning FL‑23 voters register.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-fl23-auto",
-      "startedAt": "2026-09-02T08:24:20.649Z",
-      "completedAt": "2026-09-02T08:25:08.196Z",
+      "id": "run-2026-09-09-fl23-auto",
+      "startedAt": "2026-09-09T08:38:11.638Z",
+      "completedAt": "2026-09-09T08:38:50.273Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 2,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for FL-23. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:25:08.196Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:38:50.273Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
