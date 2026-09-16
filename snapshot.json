@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:38:50.273Z",
-  "exportedAt": "2026-09-09T09:18:42.055Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:06:08.100Z",
+  "exportedAt": "2026-09-16T09:50:15.712Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1494,20 +1494,100 @@
         "relevanceSummary": "The story covers litigation challenging HB 991, a new statewide law requiring documented proof of U.S. citizenship (such as a birth certificate or passport) for voter registration, potentially affecting how new and returning FL‑23 voters register.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-099dv3g",
+        "headline": "Vote-by-mail key dates, upcoming deadlines in Florida",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/15/florida-vote-by-mail-dates-deadlines/91771827007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "The article outlines statewide mailing schedules for Florida vote-by-mail ballots, including deadlines for sending domestic ballots (Sept. 24–Oct. 1) and Uniformed and Overseas Citizens Absentee Voting Act ballots (by Sept. 19), helping FL-23 voters anticipate when they should receive their mail ballots.[4]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0vau8ti",
+        "headline": "3 deadlines every Florida voter should know right now",
+        "sourceName": "Daytona Beach News-Journal",
+        "url": "https://www.news-journalonline.com/story/news/politics/elections/2026/09/15/florida-general-election-voter-deadlines/91771460007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide guidance highlights key deadlines for Florida voters, including that vote-by-mail ballots must be received by election officials by 7 p.m. on Election Day to be counted, which applies directly to all FL-23 voters planning to use mail ballots.[3]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0dojf2k",
+        "headline": "Supreme Court clears way for mail-in ballots. When you can expect yours",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/09/15/vote-by-mail-ballots-in-escambia-santa-rosa-arriving-late-september/91776237007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article explains Florida’s statewide vote-by-mail request rules, including that voters or immediate family/legal guardians can request ballots through county Supervisors of Elections and must provide a Florida driver license or ID number or last four of their Social Security number, with a 5 p.m. deadline on the 12th day before Election Day for mailed ballot requests.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0fknjwc",
+        "headline": "Voter Precinct Lookup - Division of Elections - Florida",
+        "sourceName": "Florida Division of Elections",
+        "url": "https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/?os=fdF&ref=app",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The Florida Division of Elections updated its statewide voter precinct lookup tool on September 14, allowing FL-23 voters to confirm their registration status and any temporary polling location changes in their county before the November general election.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0r3yvys",
+        "headline": "Duval County vote-by-mail deadline set for October 22",
+        "sourceName": "Action News Jax",
+        "url": "https://www.actionnewsjax.com/news/local/how-get-vote-by-mail-ballot-duval-county-general-election/U2C5YKVI6BBJPBAG5QO4MYTAGU/",
+        "publishedAt": "2026-09-12",
+        "relevanceSummary": "This county-level explainer reiterates Florida’s vote-by-mail request deadline of October 22 and details elector verification requirements—Florida driver’s license, state ID, or last four digits of Social Security number—illustrating how statewide ID rules are implemented for mail ballot requests relevant to FL-23 voters.[13]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-06ej5mz",
+        "headline": "'Ridiculous': Postal Service rejects Leon mail ballot envelopes. Here's why",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/10/postal-service-rejects-florida-county-mail-ballots-heres-why-leon-county-trump-voting/91656140007/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Reporting on rejected mail ballot envelopes in Leon County includes state officials’ clarification that Florida’s vote-by-mail process has not been impacted by a federal executive order, providing important context for FL-23 voters about the stability of statewide mail-ballot procedures despite postal issues.[10]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0bilps5",
+        "headline": "Early voting, key election deadlines weeks away in Florida, Georgia - What voters need to know now",
+        "sourceName": "News4JAX",
+        "url": "https://www.news4jax.com/vote-2026/2026/09/10/early-voting-key-election-deadlines-weeks-away-in-florida-georgia-what-voters-needs-to-know-now/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This piece explains Florida’s early voting and vote-by-mail procedures, noting that voters must request mail ballots through their county Supervisor of Elections by October 22 and can vote at any early voting site in their county, and that approved photo identification is required for in-person voting with provisional ballots available if a voter lacks ID.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0f0nsiu",
+        "headline": "Mail voting is popular in Florida, despite federal scrutiny",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/09/florida-mail-ballot-voting-elections-courts/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This statewide overview clarifies that Florida offers three options to vote—early in-person, by mail, and in-person on Election Day—and that voters do not need an excuse to request a mail ballot, reinforcing options available to FL-23 voters under current rules.[9]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-fl23-auto",
-      "startedAt": "2026-09-09T08:38:11.638Z",
-      "completedAt": "2026-09-09T08:38:50.273Z",
+      "id": "run-2026-09-16-fl23-auto",
+      "startedAt": "2026-09-16T09:05:39.134Z",
+      "completedAt": "2026-09-16T09:06:08.100Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:38:50.273Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:06:08.100Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
