@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:06:08.100Z",
-  "exportedAt": "2026-09-16T09:50:15.712Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:06:23.608Z",
+  "exportedAt": "2026-09-23T09:36:31.122Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1574,20 +1574,100 @@
         "relevanceSummary": "This statewide overview clarifies that Florida offers three options to vote—early in-person, by mail, and in-person on Election Day—and that voters do not need an excuse to request a mail ballot, reinforcing options available to FL-23 voters under current rules.[9]",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-09c4jur",
+        "headline": "Florida begins receiving mail ballots as voting gets underway for 2026 midterm election",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-mail-ballots-2026-midterm-election/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Florida counties have begun receiving mail ballots for the November 3 election. Domestic ballots must be mailed between September 24 and October 1, and voters can track ballot status through their county supervisor of elections.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0rzare8",
+        "headline": "Miami-Dade to mail more than 200,000 ballots for November election",
+        "sourceName": "Caribbean National Weekly",
+        "url": "https://www.caribbeannationalweekly.com/posts/miami-dade-to-mail-more-than-200000-ballots-for-november-election",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Miami-Dade voters are advised to verify active mail-ballot requests because ballots are not forwarded by USPS. Completed ballots must reach the elections office by 7 p.m. on Election Day and cannot be returned at Election Day polling places.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0x94xdq",
+        "headline": "Advocate emphasizes there are no major changes to state election laws this year",
+        "sourceName": "WLRN",
+        "url": "https://www.wlrn.org/light/government-politics/2026-09-18/advocate-emphasizes-there-are-no-major-changes-to-state-election-laws-this-year",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The report says Florida voters must request a mail ballot from their local supervisor of elections and that there are no changes to Florida voter-ID rules for 2026. A new request is required for each even-numbered election year.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0dz03ub",
+        "headline": "Vote-by-Mail Ballots for November 3 General Election to be Mailed September 24",
+        "sourceName": "Miami-Dade County",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1789654924745444",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Miami-Dade’s elections office will mail requested ballots beginning September 24. During early voting, ballots may be returned at secure intake stations; on Election Day they must be delivered to specified elections offices, not polling places.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0winm83",
+        "headline": "3 key voter deadlines to know before Florida's Nov. 3 general election",
+        "sourceName": "Jacksonville Daily Record",
+        "url": "https://www.jacksonville.com/story/news/politics/elections/2026/09/17/florida-voter-guide-register-vote-by-mail-early-voting/91790307007/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article outlines statewide deadlines, including September 19 for UOCAVA ballot mailing, September 24–October 1 for domestic ballot mailing, and the October 22 deadline to request a mail ballot from the county supervisor of elections.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0412f9p",
+        "headline": "What to know about voting in Florida ahead of general election",
+        "sourceName": "NBC 6 South Florida",
+        "url": "https://www.nbcmiami.com/news/local/what-to-know-about-voting-in-florida-ahead-of-general-election/3860001/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The statewide voter guide explains Florida’s three voting methods and says voters may return mail ballots by mail or at designated drop boxes at supervisor-of-elections offices and early-voting sites.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-00cxcgf",
+        "headline": "Already registered? What Florida voters should check before Oct. 5",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/16/where-how-check-voter-registration-florida-documents-needed-change-edit-information-deadlines/91788333007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Florida voters can verify, update, or complete registration through the state voter-information website before the October 5 registration deadline. The article also reiterates the October 22 mail-ballot request deadline and Election Day receipt requirement.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-08svu11",
+        "headline": "Florida mail voting continues after Supreme Court Trump ruling",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/16/vote-by-mail-florida-supreme-court-trump-deadlines-rules/91788337007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Florida voters may continue using existing mail-voting procedures. Requests are due by 5 p.m. October 22, ballots must be received by 7 p.m. on Election Day, and secure drop boxes are available at authorized locations.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-fl23-auto",
-      "startedAt": "2026-09-16T09:05:39.134Z",
-      "completedAt": "2026-09-16T09:06:08.100Z",
+      "id": "run-2026-09-23-fl23-auto",
+      "startedAt": "2026-09-23T09:06:01.159Z",
+      "completedAt": "2026-09-23T09:06:23.608Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for FL-23. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:06:08.100Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:06:23.608Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
