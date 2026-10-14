@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:48:42.197Z",
-  "exportedAt": "2026-10-07T11:11:48.802Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:13:44.442Z",
+  "exportedAt": "2026-10-14T09:31:22.676Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -164,7 +164,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1814,20 +1814,100 @@
         "relevanceSummary": "The statewide voter guide gives FL-23 voters key dates for registration, mail-ballot requests, early voting and Election Day, and lists accepted photo-and-signature identification documents for in-person voting.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0xa56st",
+        "headline": "Is it too late to request a mail-in ballot in Florida?",
+        "sourceName": "WTSP 10 Tampa Bay",
+        "url": "https://www.wtsp.com/article/news/politics/elections/voting/request-mail-in-ballot-deadline-florida-2026-election/67-68d79f5e-28af-420f-b2d9-0e8a23ecace4",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Reiterates Florida's 5 p.m. request deadline on the 12th day before the election and the 7 p.m. Election Day receipt deadline for vote-by-mail ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0z9fq6m",
+        "headline": "Want to vote by mail? Deadline to request Florida ballot coming soon",
+        "sourceName": "Sarasota Herald-Tribune",
+        "url": "https://www.heraldtribune.com/story/news/politics/elections/2026/10/13/florida-election-deadlines-mail-ballot-early-voting/92228370007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Highlights Florida's Oct. 22, 5 p.m. deadline to request a vote-by-mail ballot and the requirement that completed ballots reach election officials by 7 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0oup05t",
+        "headline": "Florida canvassing boards work to ensure election integrity",
+        "sourceName": "Central Florida Public Media",
+        "url": "https://www.cfpublic.org/2026-10-13/election-trust-florida-counties-canvassing-boards-work-ensure-integrity",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Explains statewide and county canvassing-board procedures that affect Florida voters, including vote-by-mail signature review, ballot acceptance decisions, and logic-and-accuracy testing of voting machines.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0xfbyut",
+        "headline": "How to vote by mail in Florida for the 2026 midterm elections and more",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-absentee-voting-vote-by-mail-2026-midterm-elections/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Explains Florida vote-by-mail procedures, including the Oct. 22 request deadline, required identifying information, county Supervisor of Elections requests, and return options.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0d1kot3",
+        "headline": "Florida Election Myths, Debunked: Who Can Vote?",
+        "sourceName": "LkldNow",
+        "url": "https://www.lkldnow.com/florida-election-myths-debunked-who-can-vote/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Clarifies acceptable photo identification documents for Florida voters, including driver licenses, passports, military IDs, student IDs, and other listed forms, which applies directly to FL-23 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0tqlk3u",
+        "headline": "Where to vote in Florida — 2026 polling place, early voting",
+        "sourceName": "Decode the Vote",
+        "url": "https://www.decodethevote.com/election-2026/florida/where-to-vote",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Summarizes statewide Florida early-voting dates, county-specific scheduling, the Oct. 22 mail-ballot request deadline, and photo-ID requirements for in-person voting.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-04eqhz7",
+        "headline": "Early voting begins Oct. 19 at 27 Orange County locations, including two in Apopka",
+        "sourceName": "The Apopka Chief",
+        "url": "https://theapopkachief.com/early-voting-begins-oct-19-at-27-orange-county-locations-including-two-in-apopka/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Reports Orange County early-voting locations and explains Florida's in-person identification procedure: voters need valid photo and signature ID, may provide a second ID if the first lacks a signature, and can cast a provisional ballot without acceptable ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0rhbpoa",
+        "headline": "WUSF's Voter Guide helps you compare the candidates for the 2026 elections",
+        "sourceName": "WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-10-09/wusf-voter-guide-compare-candidates-2026-florida-elections",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Provides statewide Florida voting deadlines and procedures relevant to FL-23 voters, including the Oct. 22 vote-by-mail request deadline, Nov. 3 receipt deadline, early-voting period, and accepted in-person photo IDs.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-fl23-auto",
-      "startedAt": "2026-10-07T10:48:21.678Z",
-      "completedAt": "2026-10-07T10:48:42.197Z",
+      "id": "run-2026-10-14-fl23-auto",
+      "startedAt": "2026-10-14T09:13:32.073Z",
+      "completedAt": "2026-10-14T09:13:44.442Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:48:42.197Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:13:44.442Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
