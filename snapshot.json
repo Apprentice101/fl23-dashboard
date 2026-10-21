@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:13:44.442Z",
-  "exportedAt": "2026-10-14T09:31:22.676Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:04:41.597Z",
+  "exportedAt": "2026-10-21T09:21:14.930Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -1894,20 +1894,100 @@
         "relevanceSummary": "Provides statewide Florida voting deadlines and procedures relevant to FL-23 voters, including the Oct. 22 vote-by-mail request deadline, Nov. 3 receipt deadline, early-voting period, and accepted in-person photo IDs.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0xbqp3v",
+        "headline": "Deadline to request a Vote-By-Mail Ballot for the November 3rd General Election is October 22, 2026",
+        "sourceName": "Miami-Dade County",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1792445044765140",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Florida voters must request a vote-by-mail ballot by October 22. Miami-Dade also says ballots cannot be dropped at Election Day polling places and must reach the Supervisor of Elections by 7 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0bvljpv",
+        "headline": "How to vote in the Lee County, FL midterm general election",
+        "sourceName": "The News-Press",
+        "url": "https://www.news-press.com/story/news/politics/elections/2026/10/19/how-to-vote-in-the-lee-county-fl-midterm-general-election/92330889007/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The Lee County guide provides the October 22 mail-ballot request deadline, the 7 p.m. Election Day receipt deadline, authorized ballot-return sites, and Florida’s accepted photo-ID list for in-person voting.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0uelsep",
+        "headline": "Early voting kicks off this week in Florida. Where, when you can vote",
+        "sourceName": "The Florida Times-Union",
+        "url": "https://www.jacksonville.com/story/news/politics/elections/2026/10/19/early-voting-locations-hours-florida-2026/92251273007/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The statewide guide lists accepted photo-identification documents for in-person voting and reiterates the October 22, 5 p.m. deadline to request a vote-by-mail ballot.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0hjm1b4",
+        "headline": "Early voting for midterm elections 2026 set to start in Collier County, FL",
+        "sourceName": "Naples Daily News",
+        "url": "https://www.naplesnews.com/story/news/politics/elections/2026/10/19/collier-county-fl-early-midterm-voting-starts-oct-22-2026/92332315007/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article explains that prior Florida vote-by-mail requests have expired, so voters must submit a new request. It also lists Collier County early-voting and ballot-return options, including office and satellite locations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-09yzkmn",
+        "headline": "Secretary of State Cord Byrd Reminds Floridians of Early Voting Options",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-reminds-floridians-of-early-voting-options-1",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Florida voters can vote by mail, during early voting, or at an Election Day poll. The Department of State says all 67 counties offer early voting October 24–31, with some offering additional days, and the mail-ballot request deadline is October 22.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0pe634k",
+        "headline": "Early voting starts Monday across Tampa Bay. Where to vote",
+        "sourceName": "WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-10-16/early-voting-starts-monday-tampa-bay-area-where-to-cast-your-ballot",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The article lists early-voting dates and hours across several Florida counties, explains secure ballot intake stations and Election Day drop-off limits, and details accepted photo IDs.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0gz8s4o",
+        "headline": "Early Voting in your county: When and where",
+        "sourceName": "WMNF 88.5 FM",
+        "url": "https://www.wmnf.org/early-voting-your-county-when-where-wmnf/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The regional guide explains that secure ballot intake stations are available inside early-voting sites and repeats Florida’s October 22, 5 p.m. mail-ballot request deadline, including county election-office contact information.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-07q27t5",
+        "headline": "The ultimate Tallahassee voter guide to the 2026 general election",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/10/16/a-tallahassee-florida-voter-guide-to-2026-general-election/92267028007/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The guide explains Florida’s October 22 mail-ballot request deadline, 7 p.m. Election Day receipt deadline, secure ballot intake stations, polling hours, and the requirement to present valid photo identification with a current address when voting in person.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-fl23-auto",
-      "startedAt": "2026-10-14T09:13:32.073Z",
-      "completedAt": "2026-10-14T09:13:44.442Z",
+      "id": "run-2026-10-21-fl23-auto",
+      "startedAt": "2026-10-21T09:04:22.058Z",
+      "completedAt": "2026-10-21T09:04:41.597Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for FL-23. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for FL-23. Sources checked: 11. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:13:44.442Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:04:41.597Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
