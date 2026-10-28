@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:04:41.597Z",
-  "exportedAt": "2026-10-21T09:21:14.930Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:16:10.264Z",
+  "exportedAt": "2026-10-28T10:23:05.981Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -151,7 +151,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -1974,20 +1974,100 @@
         "relevanceSummary": "The guide explains Florida’s October 22 mail-ballot request deadline, 7 p.m. Election Day receipt deadline, secure ballot intake stations, polling hours, and the requirement to present valid photo identification with a current address when voting in person.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-03ynzjw",
+        "headline": "Florida election 2026: Major races, amendments and how to vote",
+        "sourceName": "WFTV",
+        "url": "https://www.wftv.com/news/local/florida-election-2026-major-races-amendments-how-vote/IURYLOEXEJA7NO6NBLNJ52FDFY/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "The statewide voter guide explains that early-voting schedules vary by county, domestic mail ballots must arrive by 7 p.m. on Election Day, and postmarks do not satisfy the deadline. It also states that voters need current photo ID with a signature or may request a provisional ballot.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0mxqq4r",
+        "headline": "Top Broward County elections official reports unusual mail ballot delays at Postal Service",
+        "sourceName": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/27/top-broward-elections-official-reports-unusual-mail-ballot-delays-at-postal-service/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "Broward’s elections official reported unusual postal delays and directed voters to secure ballot intake stations at early-voting locations through November 1, with additional availability at supervisor offices on November 2 and 3. This county-level administration issue may inform Florida voters about safer ballot-return options.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-01g756f",
+        "headline": "Where can I vote in Florida? How to find your assigned polling place",
+        "sourceName": "TCPalm",
+        "url": "https://www.tcpalm.com/story/news/politics/elections/2026/10/27/when-election-day-how-where-vote-florida-assigned-polling-place-voting-sites/92457027007/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "Florida voters must vote at their assigned precinct on Election Day and can find it through their voter information card or county elections office. The article lists accepted photo-ID documents and explains that voters need another signed ID if the photo ID lacks a signature.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0aokc7m",
+        "headline": "Too late to vote by mail in Florida? How to drop it off, get it counted",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/10/27/usps-mail-florida-ballot-deadline/92456959007/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "Florida voters whose mail ballots cannot be mailed in time can return them to a supervisor of elections office or secure ballot intake station. The article says neighborhood polling places cannot accept vote-by-mail ballots on Election Day and that ballots must arrive by 7 p.m.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0czoqwg",
+        "headline": "What you need to bring to polls if you're voting in Florida",
+        "sourceName": "Naples Daily News",
+        "url": "https://www.naplesnews.com/story/news/politics/elections/2026/10/26/what-bring-to-poll-vote-florida/92440416007/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "The statewide guide says voters must be registered, vote at their assigned precinct on Election Day, and show current valid photo identification with a signature. It lists accepted IDs, including Florida licenses, passports, military or student IDs, and certain government-issued cards.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-01zw9e0",
+        "headline": "Too late to mail: How to get your Florida ballot in on time",
+        "sourceName": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/26/if-youre-voting-by-mail-in-floridas-midterm-election-its-too-late-to-drop-it-in-the-mail-heres-what-to-do/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "Florida mail ballots must reach the county elections headquarters by 7 p.m. on Election Day; a postmark does not extend the deadline. Secure ballot intake stations are available at early-voting sites and supervisor offices, but neighborhood polling places cannot accept mail ballots on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0wi9hbt",
+        "headline": "Secretary of State Cord Byrd Provides Election Readiness Update for the November 3rd General Election",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-provides-election-readiness-update-for-the-november-3rd-general-election",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "Florida’s Secretary of State said early voting is available statewide from October 24–31, with additional days possible by county. The update also confirms that mail ballots must arrive by 7 p.m. on Election Day and that voters must use their assigned polling place and present current, valid photo identification.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl23-0zfylff",
+        "headline": "Track early voting data in South Florida with key mail ballot deadlines and polling sites by county",
+        "sourceName": "WPBF",
+        "url": "https://www.wpbf.com/article/early-voting-data-florida/74217775",
+        "publishedAt": "2026-10-22",
+        "relevanceSummary": "The South Florida elections guide provides county-specific early-voting and polling information and identifies October 22 at 5 p.m. as the deadline to request a mail ballot. County-level logistics can help FL-23 voters verify applicable local voting arrangements.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-fl23-auto",
-      "startedAt": "2026-10-21T09:04:22.058Z",
-      "completedAt": "2026-10-21T09:04:41.597Z",
+      "id": "run-2026-10-28-fl23-auto",
+      "startedAt": "2026-10-28T10:15:52.427Z",
+      "completedAt": "2026-10-28T10:16:10.264Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for FL-23. Sources checked: 11. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for FL-23. Sources checked: 11. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:04:41.597Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:16:10.264Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
