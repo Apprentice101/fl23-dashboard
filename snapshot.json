@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:46:23.689Z",
-  "exportedAt": "2026-11-04T11:49:14.217Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:37:11.080Z",
+  "exportedAt": "2026-11-11T11:42:38.992Z",
   "districtCode": "FL-23",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-23 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -87,7 +87,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -2057,17 +2057,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-fl23-auto",
-      "startedAt": "2026-11-04T11:46:19.832Z",
-      "completedAt": "2026-11-04T11:46:23.689Z",
+      "id": "run-2026-11-11-fl23-auto",
+      "startedAt": "2026-11-11T11:37:06.116Z",
+      "completedAt": "2026-11-11T11:37:11.080Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for FL-23. Sources checked: 14. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for FL-23. Sources checked: 14. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:46:23.689Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:37:11.080Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl23-2026-w25",
       "periodStart": "2026-06-15",
